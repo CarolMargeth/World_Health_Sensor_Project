@@ -6,3 +6,10 @@ Using The Global Health Observatory OData API to fetch data from it's data colle
 - Explore the plots in the visualizations folder.
 
 Project in process.
+
+
+Requirements
+
+- pip install dash
+- plotly graphing library. This library is under active development, so install and upgrade frequently.
+

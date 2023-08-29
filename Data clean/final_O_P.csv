@@ -1,0 +1,1561 @@
+,Country Code,Country,WHO Region,Year,Help_score,Protection_score
+0,AFG,Afghanistan,Eastern Mediterranean,2007,3,3
+1,AFG,Afghanistan,Eastern Mediterranean,2008,3,3
+2,AFG,Afghanistan,Eastern Mediterranean,2010,3,3
+3,AFG,Afghanistan,Eastern Mediterranean,2012,3,3
+4,AFG,Afghanistan,Eastern Mediterranean,2014,3,3
+5,AFG,Afghanistan,Eastern Mediterranean,2016,3,5
+6,AFG,Afghanistan,Eastern Mediterranean,2018,3,5
+7,AFG,Afghanistan,Eastern Mediterranean,2020,3,5
+8,AGO,Angola,Africa,2007,3,2
+9,AGO,Angola,Africa,2008,3,2
+10,AGO,Angola,Africa,2010,3,3
+11,AGO,Angola,Africa,2012,3,3
+12,AGO,Angola,Africa,2014,3,3
+13,AGO,Angola,Africa,2016,3,3
+14,AGO,Angola,Africa,2018,4,3
+15,AGO,Angola,Africa,2020,4,3
+16,ALB,Albania,Europe,2007,2,5
+17,ALB,Albania,Europe,2008,3,5
+18,ALB,Albania,Europe,2010,3,5
+19,ALB,Albania,Europe,2012,4,5
+20,ALB,Albania,Europe,2014,4,5
+21,ALB,Albania,Europe,2016,4,5
+22,ALB,Albania,Europe,2018,4,5
+23,ALB,Albania,Europe,2020,4,5
+24,AND,Andorra,Europe,2007,4,2
+25,AND,Andorra,Europe,2008,4,2
+26,AND,Andorra,Europe,2010,4,2
+27,AND,Andorra,Europe,2012,4,3
+28,AND,Andorra,Europe,2014,4,3
+29,AND,Andorra,Europe,2016,4,3
+30,AND,Andorra,Europe,2018,4,3
+31,AND,Andorra,Europe,2020,4,3
+32,ARE,United Arab Emirates,Eastern Mediterranean,2007,3,2
+33,ARE,United Arab Emirates,Eastern Mediterranean,2008,5,2
+34,ARE,United Arab Emirates,Eastern Mediterranean,2010,5,3
+35,ARE,United Arab Emirates,Eastern Mediterranean,2012,5,3
+36,ARE,United Arab Emirates,Eastern Mediterranean,2014,5,3
+37,ARE,United Arab Emirates,Eastern Mediterranean,2016,5,3
+38,ARE,United Arab Emirates,Eastern Mediterranean,2018,5,3
+39,ARE,United Arab Emirates,Eastern Mediterranean,2020,5,3
+40,ARG,Argentina,Americas,2007,4,2
+41,ARG,Argentina,Americas,2008,4,2
+42,ARG,Argentina,Americas,2010,4,2
+43,ARG,Argentina,Americas,2012,4,5
+44,ARG,Argentina,Americas,2014,4,5
+45,ARG,Argentina,Americas,2016,4,5
+46,ARG,Argentina,Americas,2018,4,5
+47,ARG,Argentina,Americas,2020,4,5
+48,ARM,Armenia,Europe,2007,3,3
+49,ARM,Armenia,Europe,2008,3,3
+50,ARM,Armenia,Europe,2010,3,3
+51,ARM,Armenia,Europe,2012,4,3
+52,ARM,Armenia,Europe,2014,4,3
+53,ARM,Armenia,Europe,2016,4,3
+54,ARM,Armenia,Europe,2018,4,3
+55,ARM,Armenia,Europe,2020,4,4
+56,ATG,Antigua and Barbuda,Americas,2007,3,2
+57,ATG,Antigua and Barbuda,Americas,2008,3,2
+58,ATG,Antigua and Barbuda,Americas,2010,3,2
+59,ATG,Antigua and Barbuda,Americas,2012,3,2
+60,ATG,Antigua and Barbuda,Americas,2014,3,2
+61,ATG,Antigua and Barbuda,Americas,2016,3,2
+62,ATG,Antigua and Barbuda,Americas,2018,3,5
+63,ATG,Antigua and Barbuda,Americas,2020,2,5
+64,AUS,Australia,Western Pacific,2007,5,5
+65,AUS,Australia,Western Pacific,2008,5,5
+66,AUS,Australia,Western Pacific,2010,5,5
+67,AUS,Australia,Western Pacific,2012,5,5
+68,AUS,Australia,Western Pacific,2014,5,5
+69,AUS,Australia,Western Pacific,2016,5,5
+70,AUS,Australia,Western Pacific,2018,5,5
+71,AUS,Australia,Western Pacific,2020,4,5
+72,AUT,Austria,Europe,2007,4,2
+73,AUT,Austria,Europe,2008,4,2
+74,AUT,Austria,Europe,2010,4,2
+75,AUT,Austria,Europe,2012,4,2
+76,AUT,Austria,Europe,2014,4,2
+77,AUT,Austria,Europe,2016,4,2
+78,AUT,Austria,Europe,2018,4,2
+79,AUT,Austria,Europe,2020,5,3
+80,AZE,Azerbaijan,Europe,2007,2,3
+81,AZE,Azerbaijan,Europe,2008,2,3
+82,AZE,Azerbaijan,Europe,2010,3,3
+83,AZE,Azerbaijan,Europe,2012,3,3
+84,AZE,Azerbaijan,Europe,2014,2,3
+85,AZE,Azerbaijan,Europe,2016,3,3
+86,AZE,Azerbaijan,Europe,2018,3,3
+87,AZE,Azerbaijan,Europe,2020,3,3
+88,BDI,Burundi,Africa,2007,2,2
+89,BDI,Burundi,Africa,2008,2,2
+90,BDI,Burundi,Africa,2010,2,2
+91,BDI,Burundi,Africa,2012,2,2
+92,BDI,Burundi,Africa,2014,2,2
+93,BDI,Burundi,Africa,2016,2,2
+94,BDI,Burundi,Africa,2018,2,5
+95,BDI,Burundi,Africa,2020,2,5
+96,BEL,Belgium,Europe,2007,5,3
+97,BEL,Belgium,Europe,2008,5,3
+98,BEL,Belgium,Europe,2010,4,2
+99,BEL,Belgium,Europe,2012,4,2
+100,BEL,Belgium,Europe,2014,4,2
+101,BEL,Belgium,Europe,2016,4,2
+102,BEL,Belgium,Europe,2018,4,2
+103,BEL,Belgium,Europe,2020,4,2
+104,BEN,Benin,Africa,2007,3,3
+105,BEN,Benin,Africa,2008,3,3
+106,BEN,Benin,Africa,2010,3,3
+107,BEN,Benin,Africa,2012,3,4
+108,BEN,Benin,Africa,2014,4,4
+109,BEN,Benin,Africa,2016,4,4
+110,BEN,Benin,Africa,2018,2,5
+111,BEN,Benin,Africa,2020,2,5
+112,BFA,Burkina Faso,Africa,2007,3,2
+113,BFA,Burkina Faso,Africa,2008,3,2
+114,BFA,Burkina Faso,Africa,2010,3,5
+115,BFA,Burkina Faso,Africa,2012,3,5
+116,BFA,Burkina Faso,Africa,2014,3,5
+117,BFA,Burkina Faso,Africa,2016,3,5
+118,BFA,Burkina Faso,Africa,2018,3,5
+119,BFA,Burkina Faso,Africa,2020,3,5
+120,BGD,Bangladesh,South-East Asia,2007,3,2
+121,BGD,Bangladesh,South-East Asia,2008,3,2
+122,BGD,Bangladesh,South-East Asia,2010,3,2
+123,BGD,Bangladesh,South-East Asia,2012,3,2
+124,BGD,Bangladesh,South-East Asia,2014,3,2
+125,BGD,Bangladesh,South-East Asia,2016,3,3
+126,BGD,Bangladesh,South-East Asia,2018,3,3
+127,BGD,Bangladesh,South-East Asia,2020,3,3
+128,BGR,Bulgaria,Europe,2007,4,2
+129,BGR,Bulgaria,Europe,2008,4,2
+130,BGR,Bulgaria,Europe,2010,4,2
+131,BGR,Bulgaria,Europe,2012,4,5
+132,BGR,Bulgaria,Europe,2014,4,5
+133,BGR,Bulgaria,Europe,2016,4,5
+134,BGR,Bulgaria,Europe,2018,4,5
+135,BGR,Bulgaria,Europe,2020,4,5
+136,BHR,Bahrain,Eastern Mediterranean,2007,5,2
+137,BHR,Bahrain,Eastern Mediterranean,2008,5,2
+138,BHR,Bahrain,Eastern Mediterranean,2010,5,2
+139,BHR,Bahrain,Eastern Mediterranean,2012,4,2
+140,BHR,Bahrain,Eastern Mediterranean,2014,4,2
+141,BHR,Bahrain,Eastern Mediterranean,2016,4,2
+142,BHR,Bahrain,Eastern Mediterranean,2018,4,2
+143,BHR,Bahrain,Eastern Mediterranean,2020,4,2
+144,BHS,Bahamas,Americas,2007,3,2
+145,BHS,Bahamas,Americas,2008,3,2
+146,BHS,Bahamas,Americas,2010,3,2
+147,BHS,Bahamas,Americas,2012,4,2
+148,BHS,Bahamas,Americas,2014,4,2
+149,BHS,Bahamas,Americas,2016,4,2
+150,BHS,Bahamas,Americas,2018,4,2
+151,BHS,Bahamas,Americas,2020,4,2
+152,BIH,Bosnia and Herzegovina,Europe,2007,3,2
+153,BIH,Bosnia and Herzegovina,Europe,2008,3,2
+154,BIH,Bosnia and Herzegovina,Europe,2010,3,2
+155,BIH,Bosnia and Herzegovina,Europe,2012,4,2
+156,BIH,Bosnia and Herzegovina,Europe,2014,4,2
+157,BIH,Bosnia and Herzegovina,Europe,2016,4,2
+158,BIH,Bosnia and Herzegovina,Europe,2018,4,2
+159,BIH,Bosnia and Herzegovina,Europe,2020,4,2
+160,BLR,Belarus,Europe,2007,4,2
+161,BLR,Belarus,Europe,2008,4,2
+162,BLR,Belarus,Europe,2010,4,2
+163,BLR,Belarus,Europe,2012,4,2
+164,BLR,Belarus,Europe,2014,4,2
+165,BLR,Belarus,Europe,2016,4,2
+166,BLR,Belarus,Europe,2018,4,2
+167,BLR,Belarus,Europe,2020,4,2
+168,BLZ,Belize,Americas,2007,3,2
+169,BLZ,Belize,Americas,2008,3,2
+170,BLZ,Belize,Americas,2010,3,2
+171,BLZ,Belize,Americas,2012,3,2
+172,BLZ,Belize,Americas,2014,2,2
+173,BLZ,Belize,Americas,2016,4,2
+174,BLZ,Belize,Americas,2018,4,2
+175,BLZ,Belize,Americas,2020,4,2
+176,BOL,Bolivia (Plurinational State of),Americas,2007,3,3
+177,BOL,Bolivia (Plurinational State of),Americas,2008,3,3
+178,BOL,Bolivia (Plurinational State of),Americas,2010,3,3
+179,BOL,Bolivia (Plurinational State of),Americas,2012,4,3
+180,BOL,Bolivia (Plurinational State of),Americas,2014,4,3
+181,BOL,Bolivia (Plurinational State of),Americas,2016,4,3
+182,BOL,Bolivia (Plurinational State of),Americas,2018,2,3
+183,BOL,Bolivia (Plurinational State of),Americas,2020,2,5
+184,BRA,Brazil,Americas,2007,5,2
+185,BRA,Brazil,Americas,2008,5,2
+186,BRA,Brazil,Americas,2010,5,2
+187,BRA,Brazil,Americas,2012,5,5
+188,BRA,Brazil,Americas,2014,5,5
+189,BRA,Brazil,Americas,2016,5,5
+190,BRA,Brazil,Americas,2018,5,5
+191,BRA,Brazil,Americas,2020,5,5
+192,BRB,Barbados,Americas,2007,3,2
+193,BRB,Barbados,Americas,2008,3,2
+194,BRB,Barbados,Americas,2010,3,5
+195,BRB,Barbados,Americas,2012,4,5
+196,BRB,Barbados,Americas,2014,4,5
+197,BRB,Barbados,Americas,2016,4,5
+198,BRB,Barbados,Americas,2018,4,5
+199,BRB,Barbados,Americas,2020,4,5
+200,BRN,Brunei Darussalam,Western Pacific,2007,4,4
+201,BRN,Brunei Darussalam,Western Pacific,2008,4,4
+202,BRN,Brunei Darussalam,Western Pacific,2010,4,4
+203,BRN,Brunei Darussalam,Western Pacific,2012,4,5
+204,BRN,Brunei Darussalam,Western Pacific,2014,5,5
+205,BRN,Brunei Darussalam,Western Pacific,2016,5,5
+206,BRN,Brunei Darussalam,Western Pacific,2018,4,5
+207,BRN,Brunei Darussalam,Western Pacific,2020,4,5
+208,BTN,Bhutan,South-East Asia,2007,2,4
+209,BTN,Bhutan,South-East Asia,2008,2,4
+210,BTN,Bhutan,South-East Asia,2010,2,5
+211,BTN,Bhutan,South-East Asia,2012,2,4
+212,BTN,Bhutan,South-East Asia,2014,4,4
+213,BTN,Bhutan,South-East Asia,2016,4,4
+214,BTN,Bhutan,South-East Asia,2018,4,4
+215,BTN,Bhutan,South-East Asia,2020,4,4
+216,BWA,Botswana,Africa,2007,3,2
+217,BWA,Botswana,Africa,2008,3,2
+218,BWA,Botswana,Africa,2010,3,2
+219,BWA,Botswana,Africa,2012,3,2
+220,BWA,Botswana,Africa,2014,3,2
+221,BWA,Botswana,Africa,2016,3,2
+222,BWA,Botswana,Africa,2018,4,2
+223,BWA,Botswana,Africa,2020,4,2
+224,CAF,Central African Republic,Africa,2007,3,2
+225,CAF,Central African Republic,Africa,2008,3,2
+226,CAF,Central African Republic,Africa,2010,3,2
+227,CAF,Central African Republic,Africa,2012,3,2
+228,CAF,Central African Republic,Africa,2014,3,2
+229,CAF,Central African Republic,Africa,2016,3,2
+230,CAF,Central African Republic,Africa,2018,2,2
+231,CAF,Central African Republic,Africa,2020,2,2
+232,CAN,Canada,Americas,2007,3,5
+233,CAN,Canada,Americas,2008,5,5
+234,CAN,Canada,Americas,2010,5,5
+235,CAN,Canada,Americas,2012,5,5
+236,CAN,Canada,Americas,2014,5,5
+237,CAN,Canada,Americas,2016,5,5
+238,CAN,Canada,Americas,2018,5,5
+239,CAN,Canada,Americas,2020,5,5
+240,CHE,Switzerland,Europe,2007,4,2
+241,CHE,Switzerland,Europe,2008,4,2
+242,CHE,Switzerland,Europe,2010,4,2
+243,CHE,Switzerland,Europe,2012,4,2
+244,CHE,Switzerland,Europe,2014,4,2
+245,CHE,Switzerland,Europe,2016,4,2
+246,CHE,Switzerland,Europe,2018,4,2
+247,CHE,Switzerland,Europe,2020,4,2
+248,CHL,Chile,Americas,2007,3,3
+249,CHL,Chile,Americas,2008,3,3
+250,CHL,Chile,Americas,2010,3,3
+251,CHL,Chile,Americas,2012,3,3
+252,CHL,Chile,Americas,2014,3,5
+253,CHL,Chile,Americas,2016,3,5
+254,CHL,Chile,Americas,2018,3,5
+255,CHL,Chile,Americas,2020,3,5
+256,CHN,China,Western Pacific,2007,3,2
+257,CHN,China,Western Pacific,2008,3,2
+258,CHN,China,Western Pacific,2010,3,2
+259,CHN,China,Western Pacific,2012,3,2
+260,CHN,China,Western Pacific,2014,4,2
+261,CHN,China,Western Pacific,2016,4,2
+262,CHN,China,Western Pacific,2018,4,2
+263,CHN,China,Western Pacific,2020,4,2
+264,CIV,Côte d'Ivoire,Africa,2007,3,2
+265,CIV,Côte d'Ivoire,Africa,2008,3,2
+266,CIV,Côte d'Ivoire,Africa,2010,3,2
+267,CIV,Côte d'Ivoire,Africa,2012,3,2
+268,CIV,Côte d'Ivoire,Africa,2014,4,2
+269,CIV,Côte d'Ivoire,Africa,2016,4,2
+270,CIV,Côte d'Ivoire,Africa,2018,4,2
+271,CIV,Côte d'Ivoire,Africa,2020,4,2
+272,CMR,Cameroon,Africa,2007,3,2
+273,CMR,Cameroon,Africa,2008,3,2
+274,CMR,Cameroon,Africa,2010,3,2
+275,CMR,Cameroon,Africa,2012,3,3
+276,CMR,Cameroon,Africa,2014,2,3
+277,CMR,Cameroon,Africa,2016,4,3
+278,CMR,Cameroon,Africa,2018,4,3
+279,CMR,Cameroon,Africa,2020,4,3
+280,COD,Democratic Republic of the Congo,Africa,2007,3,3
+281,COD,Democratic Republic of the Congo,Africa,2008,3,3
+282,COD,Democratic Republic of the Congo,Africa,2010,3,3
+283,COD,Democratic Republic of the Congo,Africa,2012,3,3
+284,COD,Democratic Republic of the Congo,Africa,2014,3,3
+285,COD,Democratic Republic of the Congo,Africa,2016,3,3
+286,COD,Democratic Republic of the Congo,Africa,2018,3,3
+287,COD,Democratic Republic of the Congo,Africa,2020,2,3
+288,COG,Congo,Africa,2007,3,2
+289,COG,Congo,Africa,2008,4,2
+290,COG,Congo,Africa,2010,4,2
+291,COG,Congo,Africa,2012,4,5
+292,COG,Congo,Africa,2014,4,5
+293,COG,Congo,Africa,2016,4,5
+294,COG,Congo,Africa,2018,4,5
+295,COG,Congo,Africa,2020,3,5
+296,COK,Cook Islands,Western Pacific,2007,4,2
+297,COK,Cook Islands,Western Pacific,2008,4,3
+298,COK,Cook Islands,Western Pacific,2010,4,4
+299,COK,Cook Islands,Western Pacific,2012,4,4
+300,COK,Cook Islands,Western Pacific,2014,4,4
+301,COK,Cook Islands,Western Pacific,2016,4,4
+302,COK,Cook Islands,Western Pacific,2018,4,4
+303,COK,Cook Islands,Western Pacific,2020,5,4
+304,COL,Colombia,Americas,2007,3,2
+305,COL,Colombia,Americas,2008,3,5
+306,COL,Colombia,Americas,2010,3,5
+307,COL,Colombia,Americas,2012,3,5
+308,COL,Colombia,Americas,2014,3,5
+309,COL,Colombia,Americas,2016,4,5
+310,COL,Colombia,Americas,2018,4,5
+311,COL,Colombia,Americas,2020,4,5
+312,COM,Comoros,Africa,2007,2,2
+313,COM,Comoros,Africa,2008,2,2
+314,COM,Comoros,Africa,2010,2,2
+315,COM,Comoros,Africa,2012,2,2
+316,COM,Comoros,Africa,2014,2,3
+317,COM,Comoros,Africa,2016,2,3
+318,COM,Comoros,Africa,2018,3,3
+319,COM,Comoros,Africa,2020,3,3
+320,CPV,Cabo Verde,Africa,2007,4,2
+321,CPV,Cabo Verde,Africa,2008,4,2
+322,CPV,Cabo Verde,Africa,2010,4,2
+323,CPV,Cabo Verde,Africa,2012,4,2
+324,CPV,Cabo Verde,Africa,2014,4,2
+325,CPV,Cabo Verde,Africa,2016,4,2
+326,CPV,Cabo Verde,Africa,2018,4,2
+327,CPV,Cabo Verde,Africa,2020,3,2
+328,CRI,Costa Rica,Americas,2007,4,2
+329,CRI,Costa Rica,Americas,2008,4,2
+330,CRI,Costa Rica,Americas,2010,4,2
+331,CRI,Costa Rica,Americas,2012,4,5
+332,CRI,Costa Rica,Americas,2014,4,5
+333,CRI,Costa Rica,Americas,2016,4,5
+334,CRI,Costa Rica,Americas,2018,5,5
+335,CRI,Costa Rica,Americas,2020,5,5
+336,CUB,Cuba,Americas,2007,4,3
+337,CUB,Cuba,Americas,2008,4,3
+338,CUB,Cuba,Americas,2010,4,3
+339,CUB,Cuba,Americas,2012,4,3
+340,CUB,Cuba,Americas,2014,4,3
+341,CUB,Cuba,Americas,2016,4,3
+342,CUB,Cuba,Americas,2018,4,3
+343,CUB,Cuba,Americas,2020,4,3
+344,CYP,Cyprus,Europe,2007,4,2
+345,CYP,Cyprus,Europe,2008,4,2
+346,CYP,Cyprus,Europe,2010,4,4
+347,CYP,Cyprus,Europe,2012,4,4
+348,CYP,Cyprus,Europe,2014,4,4
+349,CYP,Cyprus,Europe,2016,4,4
+350,CYP,Cyprus,Europe,2018,4,4
+351,CYP,Cyprus,Europe,2020,4,4
+352,CZE,Czechia,Europe,2007,3,3
+353,CZE,Czechia,Europe,2008,4,3
+354,CZE,Czechia,Europe,2010,4,3
+355,CZE,Czechia,Europe,2012,4,3
+356,CZE,Czechia,Europe,2014,3,3
+357,CZE,Czechia,Europe,2016,4,3
+358,CZE,Czechia,Europe,2018,5,3
+359,CZE,Czechia,Europe,2020,5,3
+360,DEU,Germany,Europe,2007,4,2
+361,DEU,Germany,Europe,2008,4,2
+362,DEU,Germany,Europe,2010,4,2
+363,DEU,Germany,Europe,2012,4,2
+364,DEU,Germany,Europe,2014,4,2
+365,DEU,Germany,Europe,2016,4,2
+366,DEU,Germany,Europe,2018,4,2
+367,DEU,Germany,Europe,2020,4,2
+368,DJI,Djibouti,Eastern Mediterranean,2007,3,4
+369,DJI,Djibouti,Eastern Mediterranean,2008,3,4
+370,DJI,Djibouti,Eastern Mediterranean,2010,3,4
+371,DJI,Djibouti,Eastern Mediterranean,2012,3,4
+372,DJI,Djibouti,Eastern Mediterranean,2014,3,4
+373,DJI,Djibouti,Eastern Mediterranean,2016,3,4
+374,DJI,Djibouti,Eastern Mediterranean,2018,2,4
+375,DJI,Djibouti,Eastern Mediterranean,2020,2,4
+376,DMA,Dominica,Americas,2007,3,2
+377,DMA,Dominica,Americas,2008,3,2
+378,DMA,Dominica,Americas,2010,3,2
+379,DMA,Dominica,Americas,2012,3,2
+380,DMA,Dominica,Americas,2014,3,2
+381,DMA,Dominica,Americas,2016,3,2
+382,DMA,Dominica,Americas,2018,2,2
+383,DMA,Dominica,Americas,2020,2,2
+384,DNK,Denmark,Europe,2007,4,2
+385,DNK,Denmark,Europe,2008,4,2
+386,DNK,Denmark,Europe,2010,4,2
+387,DNK,Denmark,Europe,2012,5,2
+388,DNK,Denmark,Europe,2014,5,2
+389,DNK,Denmark,Europe,2016,5,2
+390,DNK,Denmark,Europe,2018,5,2
+391,DNK,Denmark,Europe,2020,5,2
+392,DOM,Dominican Republic,Americas,2007,3,2
+393,DOM,Dominican Republic,Americas,2008,3,2
+394,DOM,Dominican Republic,Americas,2010,3,2
+395,DOM,Dominican Republic,Americas,2012,3,2
+396,DOM,Dominican Republic,Americas,2014,3,2
+397,DOM,Dominican Republic,Americas,2016,3,3
+398,DOM,Dominican Republic,Americas,2018,3,3
+399,DOM,Dominican Republic,Americas,2020,3,3
+400,DZA,Algeria,Africa,2007,3,3
+401,DZA,Algeria,Africa,2008,3,3
+402,DZA,Algeria,Africa,2010,3,3
+403,DZA,Algeria,Africa,2012,3,3
+404,DZA,Algeria,Africa,2014,3,3
+405,DZA,Algeria,Africa,2016,3,3
+406,DZA,Algeria,Africa,2018,3,3
+407,DZA,Algeria,Africa,2020,3,3
+408,ECU,Ecuador,Americas,2007,3,4
+409,ECU,Ecuador,Americas,2008,4,4
+410,ECU,Ecuador,Americas,2010,4,4
+411,ECU,Ecuador,Americas,2012,4,5
+412,ECU,Ecuador,Americas,2014,4,5
+413,ECU,Ecuador,Americas,2016,4,5
+414,ECU,Ecuador,Americas,2018,4,5
+415,ECU,Ecuador,Americas,2020,4,5
+416,EGY,Egypt,Eastern Mediterranean,2007,4,3
+417,EGY,Egypt,Eastern Mediterranean,2008,4,3
+418,EGY,Egypt,Eastern Mediterranean,2010,4,5
+419,EGY,Egypt,Eastern Mediterranean,2012,4,5
+420,EGY,Egypt,Eastern Mediterranean,2014,3,5
+421,EGY,Egypt,Eastern Mediterranean,2016,4,5
+422,EGY,Egypt,Eastern Mediterranean,2018,4,5
+423,EGY,Egypt,Eastern Mediterranean,2020,4,5
+424,ERI,Eritrea,Africa,2007,2,2
+425,ERI,Eritrea,Africa,2008,2,2
+426,ERI,Eritrea,Africa,2010,2,2
+427,ERI,Eritrea,Africa,2012,2,2
+428,ERI,Eritrea,Africa,2014,2,2
+429,ERI,Eritrea,Africa,2016,2,2
+430,ERI,Eritrea,Africa,2018,2,2
+431,ERI,Eritrea,Africa,2020,2,2
+432,ESP,Spain,Europe,2007,4,4
+433,ESP,Spain,Europe,2008,4,4
+434,ESP,Spain,Europe,2010,4,5
+435,ESP,Spain,Europe,2012,4,5
+436,ESP,Spain,Europe,2014,4,5
+437,ESP,Spain,Europe,2016,4,5
+438,ESP,Spain,Europe,2018,4,5
+439,ESP,Spain,Europe,2020,4,5
+440,EST,Estonia,Europe,2007,3,2
+441,EST,Estonia,Europe,2008,3,2
+442,EST,Estonia,Europe,2010,3,2
+443,EST,Estonia,Europe,2012,4,2
+444,EST,Estonia,Europe,2014,4,2
+445,EST,Estonia,Europe,2016,5,2
+446,EST,Estonia,Europe,2018,4,2
+447,EST,Estonia,Europe,2020,4,2
+448,ETH,Ethiopia,Africa,2007,2,2
+449,ETH,Ethiopia,Africa,2008,2,2
+450,ETH,Ethiopia,Africa,2010,3,2
+451,ETH,Ethiopia,Africa,2012,4,2
+452,ETH,Ethiopia,Africa,2014,4,2
+453,ETH,Ethiopia,Africa,2016,4,3
+454,ETH,Ethiopia,Africa,2018,4,3
+455,ETH,Ethiopia,Africa,2020,4,5
+456,FIN,Finland,Europe,2007,4,2
+457,FIN,Finland,Europe,2008,4,2
+458,FIN,Finland,Europe,2010,4,2
+459,FIN,Finland,Europe,2012,4,2
+460,FIN,Finland,Europe,2014,4,2
+461,FIN,Finland,Europe,2016,4,2
+462,FIN,Finland,Europe,2018,4,2
+463,FIN,Finland,Europe,2020,4,2
+464,FJI,Fiji,Western Pacific,2007,2,2
+465,FJI,Fiji,Western Pacific,2008,2,2
+466,FJI,Fiji,Western Pacific,2010,2,3
+467,FJI,Fiji,Western Pacific,2012,4,3
+468,FJI,Fiji,Western Pacific,2014,4,3
+469,FJI,Fiji,Western Pacific,2016,4,3
+470,FJI,Fiji,Western Pacific,2018,4,3
+471,FJI,Fiji,Western Pacific,2020,4,3
+472,FRA,France,Europe,2007,4,3
+473,FRA,France,Europe,2008,4,3
+474,FRA,France,Europe,2010,4,3
+475,FRA,France,Europe,2012,4,3
+476,FRA,France,Europe,2014,4,3
+477,FRA,France,Europe,2016,4,3
+478,FRA,France,Europe,2018,4,3
+479,FRA,France,Europe,2020,4,3
+480,FSM,Micronesia (Federated States of),Western Pacific,2007,3,2
+481,FSM,Micronesia (Federated States of),Western Pacific,2008,3,2
+482,FSM,Micronesia (Federated States of),Western Pacific,2010,3,2
+483,FSM,Micronesia (Federated States of),Western Pacific,2012,3,3
+484,FSM,Micronesia (Federated States of),Western Pacific,2014,4,4
+485,FSM,Micronesia (Federated States of),Western Pacific,2016,4,4
+486,FSM,Micronesia (Federated States of),Western Pacific,2018,4,4
+487,FSM,Micronesia (Federated States of),Western Pacific,2020,4,4
+488,GAB,Gabon,Africa,2007,3,2
+489,GAB,Gabon,Africa,2008,3,2
+490,GAB,Gabon,Africa,2010,3,2
+491,GAB,Gabon,Africa,2012,3,2
+492,GAB,Gabon,Africa,2014,3,3
+493,GAB,Gabon,Africa,2016,3,3
+494,GAB,Gabon,Africa,2018,3,3
+495,GAB,Gabon,Africa,2020,2,3
+496,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,2007,4,5
+497,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,2008,4,5
+498,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,2010,4,5
+499,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,2012,4,5
+500,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,2014,4,5
+501,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,2016,4,5
+502,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,2018,4,5
+503,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,2020,4,5
+504,GEO,Georgia,Europe,2007,3,2
+505,GEO,Georgia,Europe,2008,3,3
+506,GEO,Georgia,Europe,2010,3,3
+507,GEO,Georgia,Europe,2012,3,3
+508,GEO,Georgia,Europe,2014,4,3
+509,GEO,Georgia,Europe,2016,4,3
+510,GEO,Georgia,Europe,2018,4,4
+511,GEO,Georgia,Europe,2020,4,4
+512,GHA,Ghana,Africa,2007,3,2
+513,GHA,Ghana,Africa,2008,3,2
+514,GHA,Ghana,Africa,2010,3,2
+515,GHA,Ghana,Africa,2012,4,2
+516,GHA,Ghana,Africa,2014,4,2
+517,GHA,Ghana,Africa,2016,4,2
+518,GHA,Ghana,Africa,2018,4,2
+519,GHA,Ghana,Africa,2020,4,2
+520,GIN,Guinea,Africa,2007,3,3
+521,GIN,Guinea,Africa,2008,3,3
+522,GIN,Guinea,Africa,2010,3,3
+523,GIN,Guinea,Africa,2012,3,3
+524,GIN,Guinea,Africa,2014,3,3
+525,GIN,Guinea,Africa,2016,3,3
+526,GIN,Guinea,Africa,2018,2,3
+527,GIN,Guinea,Africa,2020,2,3
+528,GMB,Gambia,Africa,2007,2,2
+529,GMB,Gambia,Africa,2008,2,2
+530,GMB,Gambia,Africa,2010,2,2
+531,GMB,Gambia,Africa,2012,2,2
+532,GMB,Gambia,Africa,2014,2,2
+533,GMB,Gambia,Africa,2016,2,5
+534,GMB,Gambia,Africa,2018,2,5
+535,GMB,Gambia,Africa,2020,2,5
+536,GNB,Guinea-Bissau,Africa,2007,2,2
+537,GNB,Guinea-Bissau,Africa,2008,2,2
+538,GNB,Guinea-Bissau,Africa,2010,2,2
+539,GNB,Guinea-Bissau,Africa,2012,3,2
+540,GNB,Guinea-Bissau,Africa,2014,3,2
+541,GNB,Guinea-Bissau,Africa,2016,3,2
+542,GNB,Guinea-Bissau,Africa,2018,2,2
+543,GNB,Guinea-Bissau,Africa,2020,2,2
+544,GNQ,Equatorial Guinea,Africa,2007,2,2
+545,GNQ,Equatorial Guinea,Africa,2008,2,2
+546,GNQ,Equatorial Guinea,Africa,2010,2,2
+547,GNQ,Equatorial Guinea,Africa,2012,2,2
+548,GNQ,Equatorial Guinea,Africa,2014,2,2
+549,GNQ,Equatorial Guinea,Africa,2016,2,2
+550,GNQ,Equatorial Guinea,Africa,2018,2,2
+551,GNQ,Equatorial Guinea,Africa,2020,2,2
+552,GRC,Greece,Europe,2007,3,2
+553,GRC,Greece,Europe,2008,3,2
+554,GRC,Greece,Europe,2010,3,5
+555,GRC,Greece,Europe,2012,4,5
+556,GRC,Greece,Europe,2014,4,5
+557,GRC,Greece,Europe,2016,4,5
+558,GRC,Greece,Europe,2018,4,5
+559,GRC,Greece,Europe,2020,4,5
+560,GRD,Grenada,Americas,2007,3,2
+561,GRD,Grenada,Americas,2008,3,2
+562,GRD,Grenada,Americas,2010,3,2
+563,GRD,Grenada,Americas,2012,3,2
+564,GRD,Grenada,Americas,2014,3,2
+565,GRD,Grenada,Americas,2016,4,2
+566,GRD,Grenada,Americas,2018,4,2
+567,GRD,Grenada,Americas,2020,2,2
+568,GTM,Guatemala,Americas,2007,4,3
+569,GTM,Guatemala,Americas,2008,4,5
+570,GTM,Guatemala,Americas,2010,4,5
+571,GTM,Guatemala,Americas,2012,4,5
+572,GTM,Guatemala,Americas,2014,4,5
+573,GTM,Guatemala,Americas,2016,4,5
+574,GTM,Guatemala,Americas,2018,4,5
+575,GTM,Guatemala,Americas,2020,4,5
+576,GUY,Guyana,Americas,2007,3,2
+577,GUY,Guyana,Americas,2008,3,3
+578,GUY,Guyana,Americas,2010,4,3
+579,GUY,Guyana,Americas,2012,4,3
+580,GUY,Guyana,Americas,2014,4,3
+581,GUY,Guyana,Americas,2016,4,3
+582,GUY,Guyana,Americas,2018,4,5
+583,GUY,Guyana,Americas,2020,4,5
+584,HND,Honduras,Americas,2007,3,3
+585,HND,Honduras,Americas,2008,3,3
+586,HND,Honduras,Americas,2010,3,5
+587,HND,Honduras,Americas,2012,4,5
+588,HND,Honduras,Americas,2014,4,5
+589,HND,Honduras,Americas,2016,4,5
+590,HND,Honduras,Americas,2018,4,5
+591,HND,Honduras,Americas,2020,4,5
+592,HRV,Croatia,Europe,2007,3,2
+593,HRV,Croatia,Europe,2008,4,3
+594,HRV,Croatia,Europe,2010,4,3
+595,HRV,Croatia,Europe,2012,4,3
+596,HRV,Croatia,Europe,2014,4,3
+597,HRV,Croatia,Europe,2016,4,3
+598,HRV,Croatia,Europe,2018,4,4
+599,HRV,Croatia,Europe,2020,4,4
+600,HTI,Haiti,Americas,2007,3,2
+601,HTI,Haiti,Americas,2008,3,2
+602,HTI,Haiti,Americas,2010,3,2
+603,HTI,Haiti,Americas,2012,3,2
+604,HTI,Haiti,Americas,2014,2,2
+605,HTI,Haiti,Americas,2016,2,2
+606,HTI,Haiti,Americas,2018,2,2
+607,HTI,Haiti,Americas,2020,2,2
+608,HUN,Hungary,Europe,2007,3,2
+609,HUN,Hungary,Europe,2008,3,2
+610,HUN,Hungary,Europe,2010,4,2
+611,HUN,Hungary,Europe,2012,4,4
+612,HUN,Hungary,Europe,2014,4,4
+613,HUN,Hungary,Europe,2016,4,4
+614,HUN,Hungary,Europe,2018,4,4
+615,HUN,Hungary,Europe,2020,4,4
+616,IDN,Indonesia,South-East Asia,2007,3,3
+617,IDN,Indonesia,South-East Asia,2008,3,3
+618,IDN,Indonesia,South-East Asia,2010,3,3
+619,IDN,Indonesia,South-East Asia,2012,3,3
+620,IDN,Indonesia,South-East Asia,2014,3,3
+621,IDN,Indonesia,South-East Asia,2016,4,3
+622,IDN,Indonesia,South-East Asia,2018,4,3
+623,IDN,Indonesia,South-East Asia,2020,4,3
+624,IND,India,South-East Asia,2007,3,3
+625,IND,India,South-East Asia,2008,3,4
+626,IND,India,South-East Asia,2010,3,4
+627,IND,India,South-East Asia,2012,4,4
+628,IND,India,South-East Asia,2014,4,4
+629,IND,India,South-East Asia,2016,5,4
+630,IND,India,South-East Asia,2018,5,4
+631,IND,India,South-East Asia,2020,5,4
+632,IRL,Ireland,Europe,2007,5,5
+633,IRL,Ireland,Europe,2008,5,5
+634,IRL,Ireland,Europe,2010,5,5
+635,IRL,Ireland,Europe,2012,5,5
+636,IRL,Ireland,Europe,2014,5,5
+637,IRL,Ireland,Europe,2016,5,5
+638,IRL,Ireland,Europe,2018,5,5
+639,IRL,Ireland,Europe,2020,5,5
+640,IRN,Iran (Islamic Republic of),Eastern Mediterranean,2007,5,5
+641,IRN,Iran (Islamic Republic of),Eastern Mediterranean,2008,5,5
+642,IRN,Iran (Islamic Republic of),Eastern Mediterranean,2010,5,5
+643,IRN,Iran (Islamic Republic of),Eastern Mediterranean,2012,5,5
+644,IRN,Iran (Islamic Republic of),Eastern Mediterranean,2014,5,5
+645,IRN,Iran (Islamic Republic of),Eastern Mediterranean,2016,5,5
+646,IRN,Iran (Islamic Republic of),Eastern Mediterranean,2018,4,5
+647,IRN,Iran (Islamic Republic of),Eastern Mediterranean,2020,4,5
+648,IRQ,Iraq,Eastern Mediterranean,2007,3,2
+649,IRQ,Iraq,Eastern Mediterranean,2008,3,2
+650,IRQ,Iraq,Eastern Mediterranean,2010,3,2
+651,IRQ,Iraq,Eastern Mediterranean,2012,3,2
+652,IRQ,Iraq,Eastern Mediterranean,2014,4,3
+653,IRQ,Iraq,Eastern Mediterranean,2016,4,3
+654,IRQ,Iraq,Eastern Mediterranean,2018,4,3
+655,IRQ,Iraq,Eastern Mediterranean,2020,4,3
+656,ISL,Iceland,Europe,2007,3,2
+657,ISL,Iceland,Europe,2008,3,2
+658,ISL,Iceland,Europe,2010,3,2
+659,ISL,Iceland,Europe,2012,3,2
+660,ISL,Iceland,Europe,2014,3,2
+661,ISL,Iceland,Europe,2016,3,2
+662,ISL,Iceland,Europe,2018,3,2
+663,ISL,Iceland,Europe,2020,3,2
+664,ISR,Israel,Europe,2007,4,2
+665,ISR,Israel,Europe,2008,5,2
+666,ISR,Israel,Europe,2010,5,2
+667,ISR,Israel,Europe,2012,5,2
+668,ISR,Israel,Europe,2014,5,2
+669,ISR,Israel,Europe,2016,5,3
+670,ISR,Israel,Europe,2018,4,3
+671,ISR,Israel,Europe,2020,4,3
+672,ITA,Italy,Europe,2007,4,2
+673,ITA,Italy,Europe,2008,4,2
+674,ITA,Italy,Europe,2010,4,2
+675,ITA,Italy,Europe,2012,4,2
+676,ITA,Italy,Europe,2014,4,2
+677,ITA,Italy,Europe,2016,4,2
+678,ITA,Italy,Europe,2018,4,2
+679,ITA,Italy,Europe,2020,4,2
+680,JAM,Jamaica,Americas,2007,4,2
+681,JAM,Jamaica,Americas,2008,4,2
+682,JAM,Jamaica,Americas,2010,4,2
+683,JAM,Jamaica,Americas,2012,4,2
+684,JAM,Jamaica,Americas,2014,4,5
+685,JAM,Jamaica,Americas,2016,5,5
+686,JAM,Jamaica,Americas,2018,5,5
+687,JAM,Jamaica,Americas,2020,5,5
+688,JOR,Jordan,Eastern Mediterranean,2007,4,2
+689,JOR,Jordan,Eastern Mediterranean,2008,4,3
+690,JOR,Jordan,Eastern Mediterranean,2010,4,3
+691,JOR,Jordan,Eastern Mediterranean,2012,4,3
+692,JOR,Jordan,Eastern Mediterranean,2014,4,3
+693,JOR,Jordan,Eastern Mediterranean,2016,4,3
+694,JOR,Jordan,Eastern Mediterranean,2018,4,3
+695,JOR,Jordan,Eastern Mediterranean,2020,5,5
+696,JPN,Japan,Western Pacific,2007,4,2
+697,JPN,Japan,Western Pacific,2008,4,2
+698,JPN,Japan,Western Pacific,2010,4,2
+699,JPN,Japan,Western Pacific,2012,4,2
+700,JPN,Japan,Western Pacific,2014,4,2
+701,JPN,Japan,Western Pacific,2016,4,2
+702,JPN,Japan,Western Pacific,2018,4,3
+703,JPN,Japan,Western Pacific,2020,4,3
+704,KAZ,Kazakhstan,Europe,2007,4,3
+705,KAZ,Kazakhstan,Europe,2008,4,3
+706,KAZ,Kazakhstan,Europe,2010,4,3
+707,KAZ,Kazakhstan,Europe,2012,4,3
+708,KAZ,Kazakhstan,Europe,2014,4,3
+709,KAZ,Kazakhstan,Europe,2016,4,3
+710,KAZ,Kazakhstan,Europe,2018,4,3
+711,KAZ,Kazakhstan,Europe,2020,4,4
+712,KEN,Kenya,Africa,2007,3,2
+713,KEN,Kenya,Africa,2008,3,2
+714,KEN,Kenya,Africa,2010,3,2
+715,KEN,Kenya,Africa,2012,4,2
+716,KEN,Kenya,Africa,2014,4,2
+717,KEN,Kenya,Africa,2016,4,2
+718,KEN,Kenya,Africa,2018,4,2
+719,KEN,Kenya,Africa,2020,4,2
+720,KGZ,Kyrgyzstan,Europe,2007,3,3
+721,KGZ,Kyrgyzstan,Europe,2008,3,3
+722,KGZ,Kyrgyzstan,Europe,2010,3,3
+723,KGZ,Kyrgyzstan,Europe,2012,4,3
+724,KGZ,Kyrgyzstan,Europe,2014,4,3
+725,KGZ,Kyrgyzstan,Europe,2016,4,3
+726,KGZ,Kyrgyzstan,Europe,2018,4,3
+727,KGZ,Kyrgyzstan,Europe,2020,4,3
+728,KHM,Cambodia,Western Pacific,2007,3,2
+729,KHM,Cambodia,Western Pacific,2008,3,2
+730,KHM,Cambodia,Western Pacific,2010,3,2
+731,KHM,Cambodia,Western Pacific,2012,3,2
+732,KHM,Cambodia,Western Pacific,2014,3,4
+733,KHM,Cambodia,Western Pacific,2016,3,5
+734,KHM,Cambodia,Western Pacific,2018,3,5
+735,KHM,Cambodia,Western Pacific,2020,4,5
+736,KIR,Kiribati,Western Pacific,2007,3,2
+737,KIR,Kiribati,Western Pacific,2008,3,2
+738,KIR,Kiribati,Western Pacific,2010,3,2
+739,KIR,Kiribati,Western Pacific,2012,2,2
+740,KIR,Kiribati,Western Pacific,2014,3,3
+741,KIR,Kiribati,Western Pacific,2016,4,3
+742,KIR,Kiribati,Western Pacific,2018,4,4
+743,KIR,Kiribati,Western Pacific,2020,4,4
+744,KNA,Saint Kitts and Nevis,Americas,2007,3,2
+745,KNA,Saint Kitts and Nevis,Americas,2008,3,2
+746,KNA,Saint Kitts and Nevis,Americas,2010,3,2
+747,KNA,Saint Kitts and Nevis,Americas,2012,3,2
+748,KNA,Saint Kitts and Nevis,Americas,2014,3,2
+749,KNA,Saint Kitts and Nevis,Americas,2016,3,2
+750,KNA,Saint Kitts and Nevis,Americas,2018,3,2
+751,KNA,Saint Kitts and Nevis,Americas,2020,3,2
+752,KOR,Republic of Korea,Western Pacific,2007,5,2
+753,KOR,Republic of Korea,Western Pacific,2008,5,2
+754,KOR,Republic of Korea,Western Pacific,2010,5,2
+755,KOR,Republic of Korea,Western Pacific,2012,5,2
+756,KOR,Republic of Korea,Western Pacific,2014,5,2
+757,KOR,Republic of Korea,Western Pacific,2016,5,2
+758,KOR,Republic of Korea,Western Pacific,2018,5,2
+759,KOR,Republic of Korea,Western Pacific,2020,5,2
+760,KWT,Kuwait,Eastern Mediterranean,2007,4,2
+761,KWT,Kuwait,Eastern Mediterranean,2008,4,2
+762,KWT,Kuwait,Eastern Mediterranean,2010,4,2
+763,KWT,Kuwait,Eastern Mediterranean,2012,5,4
+764,KWT,Kuwait,Eastern Mediterranean,2014,5,4
+765,KWT,Kuwait,Eastern Mediterranean,2016,5,3
+766,KWT,Kuwait,Eastern Mediterranean,2018,5,3
+767,KWT,Kuwait,Eastern Mediterranean,2020,5,3
+768,LAO,Lao People's Democratic Republic,Western Pacific,2007,3,3
+769,LAO,Lao People's Democratic Republic,Western Pacific,2008,3,3
+770,LAO,Lao People's Democratic Republic,Western Pacific,2010,3,3
+771,LAO,Lao People's Democratic Republic,Western Pacific,2012,3,3
+772,LAO,Lao People's Democratic Republic,Western Pacific,2014,2,3
+773,LAO,Lao People's Democratic Republic,Western Pacific,2016,2,5
+774,LAO,Lao People's Democratic Republic,Western Pacific,2018,2,5
+775,LAO,Lao People's Democratic Republic,Western Pacific,2020,2,5
+776,LBN,Lebanon,Eastern Mediterranean,2007,4,3
+777,LBN,Lebanon,Eastern Mediterranean,2008,4,3
+778,LBN,Lebanon,Eastern Mediterranean,2010,4,3
+779,LBN,Lebanon,Eastern Mediterranean,2012,4,5
+780,LBN,Lebanon,Eastern Mediterranean,2014,4,5
+781,LBN,Lebanon,Eastern Mediterranean,2016,4,5
+782,LBN,Lebanon,Eastern Mediterranean,2018,4,5
+783,LBN,Lebanon,Eastern Mediterranean,2020,4,5
+784,LBR,Liberia,Africa,2007,3,2
+785,LBR,Liberia,Africa,2008,3,2
+786,LBR,Liberia,Africa,2010,3,2
+787,LBR,Liberia,Africa,2012,3,2
+788,LBR,Liberia,Africa,2014,3,2
+789,LBR,Liberia,Africa,2016,3,2
+790,LBR,Liberia,Africa,2018,3,2
+791,LBR,Liberia,Africa,2020,3,2
+792,LBY,Libya,Eastern Mediterranean,2007,2,3
+793,LBY,Libya,Eastern Mediterranean,2008,3,3
+794,LBY,Libya,Eastern Mediterranean,2010,3,5
+795,LBY,Libya,Eastern Mediterranean,2012,4,5
+796,LBY,Libya,Eastern Mediterranean,2014,4,5
+797,LBY,Libya,Eastern Mediterranean,2016,4,5
+798,LBY,Libya,Eastern Mediterranean,2018,4,5
+799,LBY,Libya,Eastern Mediterranean,2020,4,5
+800,LCA,Saint Lucia,Americas,2007,3,2
+801,LCA,Saint Lucia,Americas,2008,3,2
+802,LCA,Saint Lucia,Americas,2010,3,2
+803,LCA,Saint Lucia,Americas,2012,3,2
+804,LCA,Saint Lucia,Americas,2014,2,2
+805,LCA,Saint Lucia,Americas,2016,4,2
+806,LCA,Saint Lucia,Americas,2018,4,2
+807,LCA,Saint Lucia,Americas,2020,4,5
+808,LKA,Sri Lanka,South-East Asia,2007,3,4
+809,LKA,Sri Lanka,South-East Asia,2008,3,4
+810,LKA,Sri Lanka,South-East Asia,2010,3,4
+811,LKA,Sri Lanka,South-East Asia,2012,3,4
+812,LKA,Sri Lanka,South-East Asia,2014,3,4
+813,LKA,Sri Lanka,South-East Asia,2016,4,4
+814,LKA,Sri Lanka,South-East Asia,2018,4,4
+815,LKA,Sri Lanka,South-East Asia,2020,4,4
+816,LSO,Lesotho,Africa,2007,3,2
+817,LSO,Lesotho,Africa,2008,3,2
+818,LSO,Lesotho,Africa,2010,4,2
+819,LSO,Lesotho,Africa,2012,4,2
+820,LSO,Lesotho,Africa,2014,4,2
+821,LSO,Lesotho,Africa,2016,4,2
+822,LSO,Lesotho,Africa,2018,4,2
+823,LSO,Lesotho,Africa,2020,4,2
+824,LTU,Lithuania,Europe,2007,4,3
+825,LTU,Lithuania,Europe,2008,4,3
+826,LTU,Lithuania,Europe,2010,4,3
+827,LTU,Lithuania,Europe,2012,4,3
+828,LTU,Lithuania,Europe,2014,4,3
+829,LTU,Lithuania,Europe,2016,4,3
+830,LTU,Lithuania,Europe,2018,4,3
+831,LTU,Lithuania,Europe,2020,4,3
+832,LUX,Luxembourg,Europe,2007,2,2
+833,LUX,Luxembourg,Europe,2008,2,2
+834,LUX,Luxembourg,Europe,2010,4,2
+835,LUX,Luxembourg,Europe,2012,4,2
+836,LUX,Luxembourg,Europe,2014,4,2
+837,LUX,Luxembourg,Europe,2016,5,2
+838,LUX,Luxembourg,Europe,2018,5,3
+839,LUX,Luxembourg,Europe,2020,5,3
+840,LVA,Latvia,Europe,2007,3,2
+841,LVA,Latvia,Europe,2008,3,4
+842,LVA,Latvia,Europe,2010,4,3
+843,LVA,Latvia,Europe,2012,4,3
+844,LVA,Latvia,Europe,2014,4,3
+845,LVA,Latvia,Europe,2016,4,4
+846,LVA,Latvia,Europe,2018,4,4
+847,LVA,Latvia,Europe,2020,4,4
+848,MAR,Morocco,Eastern Mediterranean,2007,3,3
+849,MAR,Morocco,Eastern Mediterranean,2008,3,3
+850,MAR,Morocco,Eastern Mediterranean,2010,3,3
+851,MAR,Morocco,Eastern Mediterranean,2012,3,3
+852,MAR,Morocco,Eastern Mediterranean,2014,3,3
+853,MAR,Morocco,Eastern Mediterranean,2016,3,3
+854,MAR,Morocco,Eastern Mediterranean,2018,3,3
+855,MAR,Morocco,Eastern Mediterranean,2020,3,3
+856,MCO,Monaco,Europe,2007,3,2
+857,MCO,Monaco,Europe,2008,4,2
+858,MCO,Monaco,Europe,2010,4,2
+859,MCO,Monaco,Europe,2012,4,2
+860,MCO,Monaco,Europe,2014,4,2
+861,MCO,Monaco,Europe,2016,4,2
+862,MCO,Monaco,Europe,2018,4,2
+863,MCO,Monaco,Europe,2020,4,2
+864,MDA,Republic of Moldova,Europe,2007,3,3
+865,MDA,Republic of Moldova,Europe,2008,3,3
+866,MDA,Republic of Moldova,Europe,2010,3,3
+867,MDA,Republic of Moldova,Europe,2012,3,3
+868,MDA,Republic of Moldova,Europe,2014,4,3
+869,MDA,Republic of Moldova,Europe,2016,4,3
+870,MDA,Republic of Moldova,Europe,2018,4,3
+871,MDA,Republic of Moldova,Europe,2020,4,3
+872,MDG,Madagascar,Africa,2007,3,2
+873,MDG,Madagascar,Africa,2008,3,2
+874,MDG,Madagascar,Africa,2010,3,2
+875,MDG,Madagascar,Africa,2012,3,2
+876,MDG,Madagascar,Africa,2014,3,5
+877,MDG,Madagascar,Africa,2016,3,5
+878,MDG,Madagascar,Africa,2018,3,5
+879,MDG,Madagascar,Africa,2020,3,5
+880,MDV,Maldives,South-East Asia,2007,3,2
+881,MDV,Maldives,South-East Asia,2008,3,2
+882,MDV,Maldives,South-East Asia,2010,3,3
+883,MDV,Maldives,South-East Asia,2012,3,3
+884,MDV,Maldives,South-East Asia,2014,2,3
+885,MDV,Maldives,South-East Asia,2016,4,3
+886,MDV,Maldives,South-East Asia,2018,4,3
+887,MDV,Maldives,South-East Asia,2020,4,3
+888,MEX,Mexico,Americas,2007,4,2
+889,MEX,Mexico,Americas,2008,4,2
+890,MEX,Mexico,Americas,2010,4,2
+891,MEX,Mexico,Americas,2012,4,2
+892,MEX,Mexico,Americas,2014,5,2
+893,MEX,Mexico,Americas,2016,5,2
+894,MEX,Mexico,Americas,2018,5,2
+895,MEX,Mexico,Americas,2020,5,2
+896,MHL,Marshall Islands,Western Pacific,2007,4,5
+897,MHL,Marshall Islands,Western Pacific,2008,4,5
+898,MHL,Marshall Islands,Western Pacific,2010,4,5
+899,MHL,Marshall Islands,Western Pacific,2012,4,5
+900,MHL,Marshall Islands,Western Pacific,2014,4,5
+901,MHL,Marshall Islands,Western Pacific,2016,4,5
+902,MHL,Marshall Islands,Western Pacific,2018,4,5
+903,MHL,Marshall Islands,Western Pacific,2020,4,5
+904,MKD,North Macedonia,Europe,2007,3,2
+905,MKD,North Macedonia,Europe,2008,3,5
+906,MKD,North Macedonia,Europe,2010,3,5
+907,MKD,North Macedonia,Europe,2012,3,5
+908,MKD,North Macedonia,Europe,2014,4,5
+909,MKD,North Macedonia,Europe,2016,4,5
+910,MKD,North Macedonia,Europe,2018,4,5
+911,MKD,North Macedonia,Europe,2020,4,5
+912,MLI,Mali,Africa,2007,3,2
+913,MLI,Mali,Africa,2008,3,2
+914,MLI,Mali,Africa,2010,3,2
+915,MLI,Mali,Africa,2012,3,2
+916,MLI,Mali,Africa,2014,2,2
+917,MLI,Mali,Africa,2016,4,2
+918,MLI,Mali,Africa,2018,4,2
+919,MLI,Mali,Africa,2020,4,2
+920,MLT,Malta,Europe,2007,4,3
+921,MLT,Malta,Europe,2008,4,3
+922,MLT,Malta,Europe,2010,4,5
+923,MLT,Malta,Europe,2012,4,5
+924,MLT,Malta,Europe,2014,5,5
+925,MLT,Malta,Europe,2016,5,5
+926,MLT,Malta,Europe,2018,4,5
+927,MLT,Malta,Europe,2020,4,5
+928,MMR,Myanmar,South-East Asia,2007,3,3
+929,MMR,Myanmar,South-East Asia,2008,3,3
+930,MMR,Myanmar,South-East Asia,2010,3,3
+931,MMR,Myanmar,South-East Asia,2012,3,3
+932,MMR,Myanmar,South-East Asia,2014,4,3
+933,MMR,Myanmar,South-East Asia,2016,4,3
+934,MMR,Myanmar,South-East Asia,2018,4,3
+935,MMR,Myanmar,South-East Asia,2020,4,3
+936,MNE,Montenegro,Europe,2007,2,3
+937,MNE,Montenegro,Europe,2008,2,3
+938,MNE,Montenegro,Europe,2010,2,3
+939,MNE,Montenegro,Europe,2012,4,3
+940,MNE,Montenegro,Europe,2014,4,3
+941,MNE,Montenegro,Europe,2016,4,3
+942,MNE,Montenegro,Europe,2018,2,3
+943,MNE,Montenegro,Europe,2020,2,3
+944,MNG,Mongolia,Western Pacific,2007,4,2
+945,MNG,Mongolia,Western Pacific,2008,4,2
+946,MNG,Mongolia,Western Pacific,2010,4,2
+947,MNG,Mongolia,Western Pacific,2012,4,5
+948,MNG,Mongolia,Western Pacific,2014,4,5
+949,MNG,Mongolia,Western Pacific,2016,4,3
+950,MNG,Mongolia,Western Pacific,2018,4,3
+951,MNG,Mongolia,Western Pacific,2020,4,3
+952,MOZ,Mozambique,Africa,2007,3,2
+953,MOZ,Mozambique,Africa,2008,3,2
+954,MOZ,Mozambique,Africa,2010,3,2
+955,MOZ,Mozambique,Africa,2012,3,2
+956,MOZ,Mozambique,Africa,2014,3,2
+957,MOZ,Mozambique,Africa,2016,3,2
+958,MOZ,Mozambique,Africa,2018,4,2
+959,MOZ,Mozambique,Africa,2020,4,2
+960,MRT,Mauritania,Africa,2007,2,2
+961,MRT,Mauritania,Africa,2008,2,2
+962,MRT,Mauritania,Africa,2010,2,2
+963,MRT,Mauritania,Africa,2012,2,2
+964,MRT,Mauritania,Africa,2014,2,2
+965,MRT,Mauritania,Africa,2016,2,2
+966,MRT,Mauritania,Africa,2018,2,2
+967,MRT,Mauritania,Africa,2020,4,2
+968,MUS,Mauritius,Africa,2007,4,2
+969,MUS,Mauritius,Africa,2008,4,4
+970,MUS,Mauritius,Africa,2010,4,4
+971,MUS,Mauritius,Africa,2012,4,4
+972,MUS,Mauritius,Africa,2014,4,4
+973,MUS,Mauritius,Africa,2016,4,4
+974,MUS,Mauritius,Africa,2018,4,4
+975,MUS,Mauritius,Africa,2020,4,4
+976,MWI,Malawi,Africa,2007,2,2
+977,MWI,Malawi,Africa,2008,2,2
+978,MWI,Malawi,Africa,2010,2,2
+979,MWI,Malawi,Africa,2012,2,2
+980,MWI,Malawi,Africa,2014,2,2
+981,MWI,Malawi,Africa,2016,2,2
+982,MWI,Malawi,Africa,2018,2,2
+983,MWI,Malawi,Africa,2020,2,2
+984,MYS,Malaysia,Western Pacific,2007,4,2
+985,MYS,Malaysia,Western Pacific,2008,4,2
+986,MYS,Malaysia,Western Pacific,2010,4,2
+987,MYS,Malaysia,Western Pacific,2012,4,2
+988,MYS,Malaysia,Western Pacific,2014,4,2
+989,MYS,Malaysia,Western Pacific,2016,4,2
+990,MYS,Malaysia,Western Pacific,2018,4,2
+991,MYS,Malaysia,Western Pacific,2020,4,2
+992,NAM,Namibia,Africa,2007,3,2
+993,NAM,Namibia,Africa,2008,3,2
+994,NAM,Namibia,Africa,2010,3,5
+995,NAM,Namibia,Africa,2012,4,5
+996,NAM,Namibia,Africa,2014,4,5
+997,NAM,Namibia,Africa,2016,4,5
+998,NAM,Namibia,Africa,2018,4,5
+999,NAM,Namibia,Africa,2020,4,5
+1000,NER,Niger,Africa,2007,3,2
+1001,NER,Niger,Africa,2008,3,3
+1002,NER,Niger,Africa,2010,3,3
+1003,NER,Niger,Africa,2012,3,3
+1004,NER,Niger,Africa,2014,3,3
+1005,NER,Niger,Africa,2016,3,3
+1006,NER,Niger,Africa,2018,3,3
+1007,NER,Niger,Africa,2020,2,3
+1008,NGA,Nigeria,Africa,2007,4,3
+1009,NGA,Nigeria,Africa,2008,4,3
+1010,NGA,Nigeria,Africa,2010,4,3
+1011,NGA,Nigeria,Africa,2012,4,3
+1012,NGA,Nigeria,Africa,2014,4,3
+1013,NGA,Nigeria,Africa,2016,4,2
+1014,NGA,Nigeria,Africa,2018,4,2
+1015,NGA,Nigeria,Africa,2020,4,2
+1016,NIC,Nicaragua,Americas,2007,3,2
+1017,NIC,Nicaragua,Americas,2008,3,2
+1018,NIC,Nicaragua,Americas,2010,3,4
+1019,NIC,Nicaragua,Americas,2012,3,4
+1020,NIC,Nicaragua,Americas,2014,3,4
+1021,NIC,Nicaragua,Americas,2016,3,4
+1022,NIC,Nicaragua,Americas,2018,3,4
+1023,NIC,Nicaragua,Americas,2020,3,4
+1024,NIU,Niue,Western Pacific,2007,4,2
+1025,NIU,Niue,Western Pacific,2008,4,2
+1026,NIU,Niue,Western Pacific,2010,4,2
+1027,NIU,Niue,Western Pacific,2012,4,2
+1028,NIU,Niue,Western Pacific,2014,4,2
+1029,NIU,Niue,Western Pacific,2016,4,2
+1030,NIU,Niue,Western Pacific,2018,4,5
+1031,NIU,Niue,Western Pacific,2020,4,5
+1032,NLD,Netherlands,Europe,2007,3,2
+1033,NLD,Netherlands,Europe,2008,3,2
+1034,NLD,Netherlands,Europe,2010,4,2
+1035,NLD,Netherlands,Europe,2012,4,2
+1036,NLD,Netherlands,Europe,2014,5,2
+1037,NLD,Netherlands,Europe,2016,5,2
+1038,NLD,Netherlands,Europe,2018,5,2
+1039,NLD,Netherlands,Europe,2020,5,2
+1040,NOR,Norway,Europe,2007,4,3
+1041,NOR,Norway,Europe,2008,4,3
+1042,NOR,Norway,Europe,2010,4,3
+1043,NOR,Norway,Europe,2012,4,3
+1044,NOR,Norway,Europe,2014,4,5
+1045,NOR,Norway,Europe,2016,4,5
+1046,NOR,Norway,Europe,2018,4,5
+1047,NOR,Norway,Europe,2020,4,5
+1048,NPL,Nepal,South-East Asia,2007,2,2
+1049,NPL,Nepal,South-East Asia,2008,4,2
+1050,NPL,Nepal,South-East Asia,2010,4,3
+1051,NPL,Nepal,South-East Asia,2012,3,5
+1052,NPL,Nepal,South-East Asia,2014,3,5
+1053,NPL,Nepal,South-East Asia,2016,4,5
+1054,NPL,Nepal,South-East Asia,2018,4,5
+1055,NPL,Nepal,South-East Asia,2020,2,5
+1056,NRU,Nauru,Western Pacific,2007,3,2
+1057,NRU,Nauru,Western Pacific,2008,3,2
+1058,NRU,Nauru,Western Pacific,2010,3,5
+1059,NRU,Nauru,Western Pacific,2012,3,5
+1060,NRU,Nauru,Western Pacific,2014,3,5
+1061,NRU,Nauru,Western Pacific,2016,3,5
+1062,NRU,Nauru,Western Pacific,2018,3,5
+1063,NRU,Nauru,Western Pacific,2020,2,5
+1064,NZL,New Zealand,Western Pacific,2007,5,5
+1065,NZL,New Zealand,Western Pacific,2008,5,5
+1066,NZL,New Zealand,Western Pacific,2010,5,5
+1067,NZL,New Zealand,Western Pacific,2012,5,5
+1068,NZL,New Zealand,Western Pacific,2014,5,5
+1069,NZL,New Zealand,Western Pacific,2016,5,5
+1070,NZL,New Zealand,Western Pacific,2018,5,5
+1071,NZL,New Zealand,Western Pacific,2020,5,5
+1072,OMN,Oman,Eastern Mediterranean,2007,3,2
+1073,OMN,Oman,Eastern Mediterranean,2008,3,2
+1074,OMN,Oman,Eastern Mediterranean,2010,3,2
+1075,OMN,Oman,Eastern Mediterranean,2012,3,2
+1076,OMN,Oman,Eastern Mediterranean,2014,4,2
+1077,OMN,Oman,Eastern Mediterranean,2016,4,2
+1078,OMN,Oman,Eastern Mediterranean,2018,3,2
+1079,OMN,Oman,Eastern Mediterranean,2020,2,2
+1080,PAK,Pakistan,Eastern Mediterranean,2007,3,4
+1081,PAK,Pakistan,Eastern Mediterranean,2008,3,3
+1082,PAK,Pakistan,Eastern Mediterranean,2010,3,5
+1083,PAK,Pakistan,Eastern Mediterranean,2012,3,5
+1084,PAK,Pakistan,Eastern Mediterranean,2014,4,5
+1085,PAK,Pakistan,Eastern Mediterranean,2016,4,5
+1086,PAK,Pakistan,Eastern Mediterranean,2018,4,5
+1087,PAK,Pakistan,Eastern Mediterranean,2020,4,5
+1088,PAN,Panama,Americas,2007,4,3
+1089,PAN,Panama,Americas,2008,4,5
+1090,PAN,Panama,Americas,2010,5,5
+1091,PAN,Panama,Americas,2012,5,5
+1092,PAN,Panama,Americas,2014,5,5
+1093,PAN,Panama,Americas,2016,5,5
+1094,PAN,Panama,Americas,2018,4,5
+1095,PAN,Panama,Americas,2020,4,5
+1096,PER,Peru,Americas,2007,3,3
+1097,PER,Peru,Americas,2008,3,3
+1098,PER,Peru,Americas,2010,3,5
+1099,PER,Peru,Americas,2012,3,5
+1100,PER,Peru,Americas,2014,4,5
+1101,PER,Peru,Americas,2016,4,5
+1102,PER,Peru,Americas,2018,4,5
+1103,PER,Peru,Americas,2020,4,5
+1104,PHL,Philippines,Western Pacific,2007,4,3
+1105,PHL,Philippines,Western Pacific,2008,4,3
+1106,PHL,Philippines,Western Pacific,2010,4,3
+1107,PHL,Philippines,Western Pacific,2012,4,3
+1108,PHL,Philippines,Western Pacific,2014,4,3
+1109,PHL,Philippines,Western Pacific,2016,4,3
+1110,PHL,Philippines,Western Pacific,2018,4,3
+1111,PHL,Philippines,Western Pacific,2020,5,3
+1112,PLW,Palau,Western Pacific,2007,4,2
+1113,PLW,Palau,Western Pacific,2008,4,2
+1114,PLW,Palau,Western Pacific,2010,4,2
+1115,PLW,Palau,Western Pacific,2012,4,4
+1116,PLW,Palau,Western Pacific,2014,4,4
+1117,PLW,Palau,Western Pacific,2016,4,4
+1118,PLW,Palau,Western Pacific,2018,4,4
+1119,PLW,Palau,Western Pacific,2020,4,4
+1120,PNG,Papua New Guinea,Western Pacific,2007,2,3
+1121,PNG,Papua New Guinea,Western Pacific,2008,2,3
+1122,PNG,Papua New Guinea,Western Pacific,2010,2,3
+1123,PNG,Papua New Guinea,Western Pacific,2012,2,5
+1124,PNG,Papua New Guinea,Western Pacific,2014,2,5
+1125,PNG,Papua New Guinea,Western Pacific,2016,2,5
+1126,PNG,Papua New Guinea,Western Pacific,2018,3,5
+1127,PNG,Papua New Guinea,Western Pacific,2020,2,5
+1128,POL,Poland,Europe,2007,4,2
+1129,POL,Poland,Europe,2008,4,2
+1130,POL,Poland,Europe,2010,4,3
+1131,POL,Poland,Europe,2012,4,3
+1132,POL,Poland,Europe,2014,4,3
+1133,POL,Poland,Europe,2016,4,3
+1134,POL,Poland,Europe,2018,4,3
+1135,POL,Poland,Europe,2020,4,3
+1136,PRK,Democratic People's Republic of Korea,South-East Asia,2007,4,2
+1137,PRK,Democratic People's Republic of Korea,South-East Asia,2008,4,2
+1138,PRK,Democratic People's Republic of Korea,South-East Asia,2010,4,3
+1139,PRK,Democratic People's Republic of Korea,South-East Asia,2012,4,3
+1140,PRK,Democratic People's Republic of Korea,South-East Asia,2014,4,3
+1141,PRK,Democratic People's Republic of Korea,South-East Asia,2016,4,4
+1142,PRK,Democratic People's Republic of Korea,South-East Asia,2018,4,4
+1143,PRK,Democratic People's Republic of Korea,South-East Asia,2020,4,4
+1144,PRT,Portugal,Europe,2007,4,3
+1145,PRT,Portugal,Europe,2008,4,3
+1146,PRT,Portugal,Europe,2010,4,3
+1147,PRT,Portugal,Europe,2012,4,3
+1148,PRT,Portugal,Europe,2014,4,3
+1149,PRT,Portugal,Europe,2016,4,4
+1150,PRT,Portugal,Europe,2018,4,4
+1151,PRT,Portugal,Europe,2020,4,4
+1152,PRY,Paraguay,Americas,2007,4,2
+1153,PRY,Paraguay,Americas,2008,4,2
+1154,PRY,Paraguay,Americas,2010,4,2
+1155,PRY,Paraguay,Americas,2012,4,2
+1156,PRY,Paraguay,Americas,2014,4,2
+1157,PRY,Paraguay,Americas,2016,4,2
+1158,PRY,Paraguay,Americas,2018,4,4
+1159,PRY,Paraguay,Americas,2020,4,5
+1160,PSE,"occupied Palestinian territory, including east Jerusalem",Eastern Mediterranean,2007,3,4
+1161,PSE,"occupied Palestinian territory, including east Jerusalem",Eastern Mediterranean,2008,3,4
+1162,PSE,"occupied Palestinian territory, including east Jerusalem",Eastern Mediterranean,2010,3,4
+1163,PSE,"occupied Palestinian territory, including east Jerusalem",Eastern Mediterranean,2012,3,5
+1164,PSE,"occupied Palestinian territory, including east Jerusalem",Eastern Mediterranean,2014,3,5
+1165,PSE,"occupied Palestinian territory, including east Jerusalem",Eastern Mediterranean,2016,3,5
+1166,PSE,"occupied Palestinian territory, including east Jerusalem",Eastern Mediterranean,2018,3,5
+1167,PSE,"occupied Palestinian territory, including east Jerusalem",Eastern Mediterranean,2020,3,5
+1168,QAT,Qatar,Eastern Mediterranean,2007,4,2
+1169,QAT,Qatar,Eastern Mediterranean,2008,4,2
+1170,QAT,Qatar,Eastern Mediterranean,2010,4,2
+1171,QAT,Qatar,Eastern Mediterranean,2012,4,2
+1172,QAT,Qatar,Eastern Mediterranean,2014,4,2
+1173,QAT,Qatar,Eastern Mediterranean,2016,4,2
+1174,QAT,Qatar,Eastern Mediterranean,2018,4,2
+1175,QAT,Qatar,Eastern Mediterranean,2020,4,2
+1176,ROU,Romania,Europe,2007,4,2
+1177,ROU,Romania,Europe,2008,5,2
+1178,ROU,Romania,Europe,2010,5,2
+1179,ROU,Romania,Europe,2012,5,2
+1180,ROU,Romania,Europe,2014,4,2
+1181,ROU,Romania,Europe,2016,4,5
+1182,ROU,Romania,Europe,2018,4,5
+1183,ROU,Romania,Europe,2020,4,5
+1184,RUS,Russian Federation,Europe,2007,3,2
+1185,RUS,Russian Federation,Europe,2008,3,2
+1186,RUS,Russian Federation,Europe,2010,3,2
+1187,RUS,Russian Federation,Europe,2012,3,2
+1188,RUS,Russian Federation,Europe,2014,4,5
+1189,RUS,Russian Federation,Europe,2016,4,5
+1190,RUS,Russian Federation,Europe,2018,4,5
+1191,RUS,Russian Federation,Europe,2020,4,5
+1192,RWA,Rwanda,Africa,2007,2,2
+1193,RWA,Rwanda,Africa,2008,2,2
+1194,RWA,Rwanda,Africa,2010,2,2
+1195,RWA,Rwanda,Africa,2012,2,2
+1196,RWA,Rwanda,Africa,2014,3,2
+1197,RWA,Rwanda,Africa,2016,3,2
+1198,RWA,Rwanda,Africa,2018,2,2
+1199,RWA,Rwanda,Africa,2020,2,2
+1200,SAU,Saudi Arabia,Eastern Mediterranean,2007,4,3
+1201,SAU,Saudi Arabia,Eastern Mediterranean,2008,4,3
+1202,SAU,Saudi Arabia,Eastern Mediterranean,2010,4,3
+1203,SAU,Saudi Arabia,Eastern Mediterranean,2012,4,5
+1204,SAU,Saudi Arabia,Eastern Mediterranean,2014,4,5
+1205,SAU,Saudi Arabia,Eastern Mediterranean,2016,4,4
+1206,SAU,Saudi Arabia,Eastern Mediterranean,2018,5,4
+1207,SAU,Saudi Arabia,Eastern Mediterranean,2020,5,4
+1208,SDN,Sudan,Eastern Mediterranean,2007,2,2
+1209,SDN,Sudan,Eastern Mediterranean,2008,2,2
+1210,SDN,Sudan,Eastern Mediterranean,2010,2,2
+1211,SDN,Sudan,Eastern Mediterranean,2012,2,2
+1212,SDN,Sudan,Eastern Mediterranean,2014,2,2
+1213,SDN,Sudan,Eastern Mediterranean,2016,2,2
+1214,SDN,Sudan,Eastern Mediterranean,2018,3,2
+1215,SDN,Sudan,Eastern Mediterranean,2020,4,2
+1216,SEN,Senegal,Africa,2007,3,2
+1217,SEN,Senegal,Africa,2008,3,2
+1218,SEN,Senegal,Africa,2010,3,2
+1219,SEN,Senegal,Africa,2012,3,2
+1220,SEN,Senegal,Africa,2014,4,2
+1221,SEN,Senegal,Africa,2016,5,4
+1222,SEN,Senegal,Africa,2018,5,4
+1223,SEN,Senegal,Africa,2020,4,4
+1224,SGP,Singapore,Western Pacific,2007,5,3
+1225,SGP,Singapore,Western Pacific,2008,5,3
+1226,SGP,Singapore,Western Pacific,2010,5,3
+1227,SGP,Singapore,Western Pacific,2012,5,3
+1228,SGP,Singapore,Western Pacific,2014,5,3
+1229,SGP,Singapore,Western Pacific,2016,5,3
+1230,SGP,Singapore,Western Pacific,2018,5,3
+1231,SGP,Singapore,Western Pacific,2020,5,3
+1232,SLB,Solomon Islands,Western Pacific,2007,3,2
+1233,SLB,Solomon Islands,Western Pacific,2008,3,2
+1234,SLB,Solomon Islands,Western Pacific,2010,3,3
+1235,SLB,Solomon Islands,Western Pacific,2012,3,3
+1236,SLB,Solomon Islands,Western Pacific,2014,4,3
+1237,SLB,Solomon Islands,Western Pacific,2016,4,3
+1238,SLB,Solomon Islands,Western Pacific,2018,4,3
+1239,SLB,Solomon Islands,Western Pacific,2020,4,3
+1240,SLE,Sierra Leone,Africa,2007,2,2
+1241,SLE,Sierra Leone,Africa,2008,2,2
+1242,SLE,Sierra Leone,Africa,2010,2,2
+1243,SLE,Sierra Leone,Africa,2012,2,2
+1244,SLE,Sierra Leone,Africa,2014,2,2
+1245,SLE,Sierra Leone,Africa,2016,2,2
+1246,SLE,Sierra Leone,Africa,2018,2,2
+1247,SLE,Sierra Leone,Africa,2020,2,2
+1248,SLV,El Salvador,Americas,2007,4,3
+1249,SLV,El Salvador,Americas,2008,4,3
+1250,SLV,El Salvador,Americas,2010,4,3
+1251,SLV,El Salvador,Americas,2012,5,2
+1252,SLV,El Salvador,Americas,2014,4,2
+1253,SLV,El Salvador,Americas,2016,5,5
+1254,SLV,El Salvador,Americas,2018,5,5
+1255,SLV,El Salvador,Americas,2020,4,5
+1256,SMR,San Marino,Europe,2007,3,2
+1257,SMR,San Marino,Europe,2008,3,3
+1258,SMR,San Marino,Europe,2010,3,3
+1259,SMR,San Marino,Europe,2012,3,3
+1260,SMR,San Marino,Europe,2014,4,3
+1261,SMR,San Marino,Europe,2016,4,3
+1262,SMR,San Marino,Europe,2018,2,3
+1263,SMR,San Marino,Europe,2020,2,3
+1264,SOM,Somalia,Eastern Mediterranean,2007,2,2
+1265,SOM,Somalia,Eastern Mediterranean,2008,2,2
+1266,SOM,Somalia,Eastern Mediterranean,2010,2,2
+1267,SOM,Somalia,Eastern Mediterranean,2012,2,2
+1268,SOM,Somalia,Eastern Mediterranean,2014,2,2
+1269,SOM,Somalia,Eastern Mediterranean,2016,2,2
+1270,SOM,Somalia,Eastern Mediterranean,2018,2,2
+1271,SOM,Somalia,Eastern Mediterranean,2020,2,2
+1272,SRB,Serbia,Europe,2007,3,3
+1273,SRB,Serbia,Europe,2008,3,3
+1274,SRB,Serbia,Europe,2010,4,3
+1275,SRB,Serbia,Europe,2012,4,3
+1276,SRB,Serbia,Europe,2014,4,3
+1277,SRB,Serbia,Europe,2016,4,3
+1278,SRB,Serbia,Europe,2018,4,3
+1279,SRB,Serbia,Europe,2020,4,3
+1280,SSD,South Sudan,Africa,2007,1,2
+1281,SSD,South Sudan,Africa,2008,1,2
+1282,SSD,South Sudan,Africa,2010,1,2
+1283,SSD,South Sudan,Africa,2012,1,2
+1284,SSD,South Sudan,Africa,2014,1,2
+1285,SSD,South Sudan,Africa,2016,1,2
+1286,SSD,South Sudan,Africa,2018,1,2
+1287,SSD,South Sudan,Africa,2020,1,2
+1288,STP,Sao Tome and Principe,Africa,2007,2,2
+1289,STP,Sao Tome and Principe,Africa,2008,2,2
+1290,STP,Sao Tome and Principe,Africa,2010,2,2
+1291,STP,Sao Tome and Principe,Africa,2012,2,2
+1292,STP,Sao Tome and Principe,Africa,2014,4,2
+1293,STP,Sao Tome and Principe,Africa,2016,4,2
+1294,STP,Sao Tome and Principe,Africa,2018,2,2
+1295,STP,Sao Tome and Principe,Africa,2020,2,2
+1296,SUR,Suriname,Americas,2007,3,2
+1297,SUR,Suriname,Americas,2008,3,2
+1298,SUR,Suriname,Americas,2010,3,2
+1299,SUR,Suriname,Americas,2012,3,2
+1300,SUR,Suriname,Americas,2014,4,5
+1301,SUR,Suriname,Americas,2016,4,5
+1302,SUR,Suriname,Americas,2018,4,5
+1303,SUR,Suriname,Americas,2020,3,5
+1304,SVK,Slovakia,Europe,2007,3,3
+1305,SVK,Slovakia,Europe,2008,3,3
+1306,SVK,Slovakia,Europe,2010,4,3
+1307,SVK,Slovakia,Europe,2012,4,3
+1308,SVK,Slovakia,Europe,2014,4,3
+1309,SVK,Slovakia,Europe,2016,4,3
+1310,SVK,Slovakia,Europe,2018,5,3
+1311,SVK,Slovakia,Europe,2020,5,3
+1312,SVN,Slovenia,Europe,2007,4,3
+1313,SVN,Slovenia,Europe,2008,4,3
+1314,SVN,Slovenia,Europe,2010,4,3
+1315,SVN,Slovenia,Europe,2012,4,3
+1316,SVN,Slovenia,Europe,2014,4,3
+1317,SVN,Slovenia,Europe,2016,4,3
+1318,SVN,Slovenia,Europe,2018,4,3
+1319,SVN,Slovenia,Europe,2020,4,3
+1320,SWE,Sweden,Europe,2007,4,2
+1321,SWE,Sweden,Europe,2008,4,2
+1322,SWE,Sweden,Europe,2010,4,2
+1323,SWE,Sweden,Europe,2012,4,2
+1324,SWE,Sweden,Europe,2014,4,2
+1325,SWE,Sweden,Europe,2016,4,2
+1326,SWE,Sweden,Europe,2018,5,2
+1327,SWE,Sweden,Europe,2020,5,2
+1328,SWZ,Eswatini,Africa,2007,4,2
+1329,SWZ,Eswatini,Africa,2008,4,2
+1330,SWZ,Eswatini,Africa,2010,4,2
+1331,SWZ,Eswatini,Africa,2012,4,2
+1332,SWZ,Eswatini,Africa,2014,4,2
+1333,SWZ,Eswatini,Africa,2016,4,2
+1334,SWZ,Eswatini,Africa,2018,4,2
+1335,SWZ,Eswatini,Africa,2020,4,2
+1336,SYC,Seychelles,Africa,2007,3,2
+1337,SYC,Seychelles,Africa,2008,3,2
+1338,SYC,Seychelles,Africa,2010,3,5
+1339,SYC,Seychelles,Africa,2012,3,5
+1340,SYC,Seychelles,Africa,2014,4,5
+1341,SYC,Seychelles,Africa,2016,4,5
+1342,SYC,Seychelles,Africa,2018,4,5
+1343,SYC,Seychelles,Africa,2020,4,5
+1344,SYR,Syrian Arab Republic,Eastern Mediterranean,2007,4,2
+1345,SYR,Syrian Arab Republic,Eastern Mediterranean,2008,4,2
+1346,SYR,Syrian Arab Republic,Eastern Mediterranean,2010,4,4
+1347,SYR,Syrian Arab Republic,Eastern Mediterranean,2012,4,4
+1348,SYR,Syrian Arab Republic,Eastern Mediterranean,2014,4,4
+1349,SYR,Syrian Arab Republic,Eastern Mediterranean,2016,4,4
+1350,SYR,Syrian Arab Republic,Eastern Mediterranean,2018,4,4
+1351,SYR,Syrian Arab Republic,Eastern Mediterranean,2020,2,4
+1352,TCD,Chad,Africa,2007,2,2
+1353,TCD,Chad,Africa,2008,2,2
+1354,TCD,Chad,Africa,2010,2,5
+1355,TCD,Chad,Africa,2012,3,5
+1356,TCD,Chad,Africa,2014,3,5
+1357,TCD,Chad,Africa,2016,3,5
+1358,TCD,Chad,Africa,2018,3,5
+1359,TCD,Chad,Africa,2020,3,5
+1360,TGO,Togo,Africa,2007,3,2
+1361,TGO,Togo,Africa,2008,3,2
+1362,TGO,Togo,Africa,2010,3,3
+1363,TGO,Togo,Africa,2012,3,3
+1364,TGO,Togo,Africa,2014,2,3
+1365,TGO,Togo,Africa,2016,2,3
+1366,TGO,Togo,Africa,2018,2,3
+1367,TGO,Togo,Africa,2020,2,3
+1368,THA,Thailand,South-East Asia,2007,4,2
+1369,THA,Thailand,South-East Asia,2008,4,2
+1370,THA,Thailand,South-East Asia,2010,4,5
+1371,THA,Thailand,South-East Asia,2012,4,5
+1372,THA,Thailand,South-East Asia,2014,4,5
+1373,THA,Thailand,South-East Asia,2016,4,5
+1374,THA,Thailand,South-East Asia,2018,4,5
+1375,THA,Thailand,South-East Asia,2020,4,5
+1376,TJK,Tajikistan,Europe,2007,3,2
+1377,TJK,Tajikistan,Europe,2008,3,2
+1378,TJK,Tajikistan,Europe,2010,3,2
+1379,TJK,Tajikistan,Europe,2012,3,2
+1380,TJK,Tajikistan,Europe,2014,3,2
+1381,TJK,Tajikistan,Europe,2016,3,2
+1382,TJK,Tajikistan,Europe,2018,2,5
+1383,TJK,Tajikistan,Europe,2020,2,5
+1384,TKM,Turkmenistan,Europe,2007,4,5
+1385,TKM,Turkmenistan,Europe,2008,4,5
+1386,TKM,Turkmenistan,Europe,2010,4,5
+1387,TKM,Turkmenistan,Europe,2012,4,5
+1388,TKM,Turkmenistan,Europe,2014,4,5
+1389,TKM,Turkmenistan,Europe,2016,4,5
+1390,TKM,Turkmenistan,Europe,2018,4,5
+1391,TKM,Turkmenistan,Europe,2020,4,5
+1392,TLS,Timor-Leste,South-East Asia,2007,2,2
+1393,TLS,Timor-Leste,South-East Asia,2008,2,2
+1394,TLS,Timor-Leste,South-East Asia,2010,2,2
+1395,TLS,Timor-Leste,South-East Asia,2012,2,2
+1396,TLS,Timor-Leste,South-East Asia,2014,2,2
+1397,TLS,Timor-Leste,South-East Asia,2016,2,4
+1398,TLS,Timor-Leste,South-East Asia,2018,4,4
+1399,TLS,Timor-Leste,South-East Asia,2020,4,4
+1400,TON,Tonga,Western Pacific,2007,2,2
+1401,TON,Tonga,Western Pacific,2008,3,2
+1402,TON,Tonga,Western Pacific,2010,3,2
+1403,TON,Tonga,Western Pacific,2012,4,2
+1404,TON,Tonga,Western Pacific,2014,4,4
+1405,TON,Tonga,Western Pacific,2016,4,4
+1406,TON,Tonga,Western Pacific,2018,4,4
+1407,TON,Tonga,Western Pacific,2020,5,4
+1408,TTO,Trinidad and Tobago,Americas,2007,3,2
+1409,TTO,Trinidad and Tobago,Americas,2008,3,2
+1410,TTO,Trinidad and Tobago,Americas,2010,3,5
+1411,TTO,Trinidad and Tobago,Americas,2012,4,5
+1412,TTO,Trinidad and Tobago,Americas,2014,4,5
+1413,TTO,Trinidad and Tobago,Americas,2016,4,5
+1414,TTO,Trinidad and Tobago,Americas,2018,4,5
+1415,TTO,Trinidad and Tobago,Americas,2020,4,5
+1416,TUN,Tunisia,Eastern Mediterranean,2007,3,2
+1417,TUN,Tunisia,Eastern Mediterranean,2008,3,2
+1418,TUN,Tunisia,Eastern Mediterranean,2010,3,2
+1419,TUN,Tunisia,Eastern Mediterranean,2012,4,2
+1420,TUN,Tunisia,Eastern Mediterranean,2014,4,2
+1421,TUN,Tunisia,Eastern Mediterranean,2016,4,2
+1422,TUN,Tunisia,Eastern Mediterranean,2018,4,2
+1423,TUN,Tunisia,Eastern Mediterranean,2020,4,2
+1424,TUR,Türkiye,Europe,2007,3,2
+1425,TUR,Türkiye,Europe,2008,3,5
+1426,TUR,Türkiye,Europe,2010,5,5
+1427,TUR,Türkiye,Europe,2012,5,5
+1428,TUR,Türkiye,Europe,2014,5,5
+1429,TUR,Türkiye,Europe,2016,5,5
+1430,TUR,Türkiye,Europe,2018,5,5
+1431,TUR,Türkiye,Europe,2020,5,5
+1432,TUV,Tuvalu,Western Pacific,2007,4,2
+1433,TUV,Tuvalu,Western Pacific,2008,4,3
+1434,TUV,Tuvalu,Western Pacific,2010,4,3
+1435,TUV,Tuvalu,Western Pacific,2012,4,3
+1436,TUV,Tuvalu,Western Pacific,2014,4,3
+1437,TUV,Tuvalu,Western Pacific,2016,4,3
+1438,TUV,Tuvalu,Western Pacific,2018,3,3
+1439,TUV,Tuvalu,Western Pacific,2020,3,3
+1440,TZA,United Republic of Tanzania,Africa,2007,4,2
+1441,TZA,United Republic of Tanzania,Africa,2008,4,2
+1442,TZA,United Republic of Tanzania,Africa,2010,4,2
+1443,TZA,United Republic of Tanzania,Africa,2012,4,2
+1444,TZA,United Republic of Tanzania,Africa,2014,4,2
+1445,TZA,United Republic of Tanzania,Africa,2016,4,2
+1446,TZA,United Republic of Tanzania,Africa,2018,3,2
+1447,TZA,United Republic of Tanzania,Africa,2020,3,2
+1448,UGA,Uganda,Africa,2007,4,3
+1449,UGA,Uganda,Africa,2008,4,3
+1450,UGA,Uganda,Africa,2010,4,3
+1451,UGA,Uganda,Africa,2012,4,3
+1452,UGA,Uganda,Africa,2014,4,3
+1453,UGA,Uganda,Africa,2016,4,5
+1454,UGA,Uganda,Africa,2018,3,5
+1455,UGA,Uganda,Africa,2020,3,5
+1456,UKR,Ukraine,Europe,2007,3,2
+1457,UKR,Ukraine,Europe,2008,3,2
+1458,UKR,Ukraine,Europe,2010,3,3
+1459,UKR,Ukraine,Europe,2012,3,4
+1460,UKR,Ukraine,Europe,2014,3,4
+1461,UKR,Ukraine,Europe,2016,3,4
+1462,UKR,Ukraine,Europe,2018,3,4
+1463,UKR,Ukraine,Europe,2020,3,4
+1464,URY,Uruguay,Americas,2007,5,5
+1465,URY,Uruguay,Americas,2008,5,5
+1466,URY,Uruguay,Americas,2010,5,5
+1467,URY,Uruguay,Americas,2012,5,5
+1468,URY,Uruguay,Americas,2014,4,5
+1469,URY,Uruguay,Americas,2016,4,5
+1470,URY,Uruguay,Americas,2018,4,5
+1471,URY,Uruguay,Americas,2020,4,5
+1472,USA,United States of America,Americas,2007,3,2
+1473,USA,United States of America,Americas,2008,5,2
+1474,USA,United States of America,Americas,2010,5,2
+1475,USA,United States of America,Americas,2012,5,2
+1476,USA,United States of America,Americas,2014,5,2
+1477,USA,United States of America,Americas,2016,5,2
+1478,USA,United States of America,Americas,2018,5,2
+1479,USA,United States of America,Americas,2020,5,2
+1480,UZB,Uzbekistan,Europe,2007,3,2
+1481,UZB,Uzbekistan,Europe,2008,3,2
+1482,UZB,Uzbekistan,Europe,2010,3,2
+1483,UZB,Uzbekistan,Europe,2012,3,2
+1484,UZB,Uzbekistan,Europe,2014,4,2
+1485,UZB,Uzbekistan,Europe,2016,4,2
+1486,UZB,Uzbekistan,Europe,2018,4,2
+1487,UZB,Uzbekistan,Europe,2020,4,2
+1488,VCT,Saint Vincent and the Grenadines,Americas,2007,3,2
+1489,VCT,Saint Vincent and the Grenadines,Americas,2008,3,2
+1490,VCT,Saint Vincent and the Grenadines,Americas,2010,3,2
+1491,VCT,Saint Vincent and the Grenadines,Americas,2012,3,2
+1492,VCT,Saint Vincent and the Grenadines,Americas,2014,3,2
+1493,VCT,Saint Vincent and the Grenadines,Americas,2016,3,2
+1494,VCT,Saint Vincent and the Grenadines,Americas,2018,3,2
+1495,VCT,Saint Vincent and the Grenadines,Americas,2020,3,2
+1496,VEN,Venezuela (Bolivarian Republic of),Americas,2007,4,2
+1497,VEN,Venezuela (Bolivarian Republic of),Americas,2008,4,2
+1498,VEN,Venezuela (Bolivarian Republic of),Americas,2010,4,2
+1499,VEN,Venezuela (Bolivarian Republic of),Americas,2012,4,5
+1500,VEN,Venezuela (Bolivarian Republic of),Americas,2014,4,5
+1501,VEN,Venezuela (Bolivarian Republic of),Americas,2016,4,5
+1502,VEN,Venezuela (Bolivarian Republic of),Americas,2018,4,5
+1503,VEN,Venezuela (Bolivarian Republic of),Americas,2020,4,5
+1504,VNM,Viet Nam,Western Pacific,2007,3,4
+1505,VNM,Viet Nam,Western Pacific,2008,3,4
+1506,VNM,Viet Nam,Western Pacific,2010,3,4
+1507,VNM,Viet Nam,Western Pacific,2012,3,4
+1508,VNM,Viet Nam,Western Pacific,2014,3,4
+1509,VNM,Viet Nam,Western Pacific,2016,3,4
+1510,VNM,Viet Nam,Western Pacific,2018,4,4
+1511,VNM,Viet Nam,Western Pacific,2020,4,4
+1512,VUT,Vanuatu,Western Pacific,2007,2,2
+1513,VUT,Vanuatu,Western Pacific,2008,3,2
+1514,VUT,Vanuatu,Western Pacific,2010,3,2
+1515,VUT,Vanuatu,Western Pacific,2012,3,2
+1516,VUT,Vanuatu,Western Pacific,2014,3,2
+1517,VUT,Vanuatu,Western Pacific,2016,3,2
+1518,VUT,Vanuatu,Western Pacific,2018,3,2
+1519,VUT,Vanuatu,Western Pacific,2020,3,2
+1520,WSM,Samoa,Western Pacific,2007,3,2
+1521,WSM,Samoa,Western Pacific,2008,3,4
+1522,WSM,Samoa,Western Pacific,2010,3,4
+1523,WSM,Samoa,Western Pacific,2012,3,4
+1524,WSM,Samoa,Western Pacific,2014,3,4
+1525,WSM,Samoa,Western Pacific,2016,4,4
+1526,WSM,Samoa,Western Pacific,2018,4,4
+1527,WSM,Samoa,Western Pacific,2020,4,4
+1528,YEM,Yemen,Eastern Mediterranean,2007,3,2
+1529,YEM,Yemen,Eastern Mediterranean,2008,3,2
+1530,YEM,Yemen,Eastern Mediterranean,2010,3,2
+1531,YEM,Yemen,Eastern Mediterranean,2012,3,2
+1532,YEM,Yemen,Eastern Mediterranean,2014,3,4
+1533,YEM,Yemen,Eastern Mediterranean,2016,3,4
+1534,YEM,Yemen,Eastern Mediterranean,2018,3,4
+1535,YEM,Yemen,Eastern Mediterranean,2020,3,4
+1536,ZAF,South Africa,Africa,2007,3,2
+1537,ZAF,South Africa,Africa,2008,3,2
+1538,ZAF,South Africa,Africa,2010,3,2
+1539,ZAF,South Africa,Africa,2012,3,2
+1540,ZAF,South Africa,Africa,2014,4,2
+1541,ZAF,South Africa,Africa,2016,4,2
+1542,ZAF,South Africa,Africa,2018,4,2
+1543,ZAF,South Africa,Africa,2020,4,2
+1544,ZMB,Zambia,Africa,2007,3,3
+1545,ZMB,Zambia,Africa,2008,3,4
+1546,ZMB,Zambia,Africa,2010,3,4
+1547,ZMB,Zambia,Africa,2012,3,4
+1548,ZMB,Zambia,Africa,2014,3,4
+1549,ZMB,Zambia,Africa,2016,3,4
+1550,ZMB,Zambia,Africa,2018,4,4
+1551,ZMB,Zambia,Africa,2020,4,4
+1552,ZWE,Zimbabwe,Africa,2007,3,3
+1553,ZWE,Zimbabwe,Africa,2008,3,3
+1554,ZWE,Zimbabwe,Africa,2010,3,3
+1555,ZWE,Zimbabwe,Africa,2012,3,3
+1556,ZWE,Zimbabwe,Africa,2014,2,3
+1557,ZWE,Zimbabwe,Africa,2016,4,3
+1558,ZWE,Zimbabwe,Africa,2018,4,3
+1559,ZWE,Zimbabwe,Africa,2020,4,3

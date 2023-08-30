@@ -12,4 +12,5 @@ Requirements
 
 - pip install dash
 - plotly graphing library. This library is under active development, so install and upgrade frequently.
+- pip install dash-bootstrap-components
 

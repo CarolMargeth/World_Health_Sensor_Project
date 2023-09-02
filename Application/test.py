@@ -2,45 +2,50 @@
 from dash import Dash, html, dash_table, dcc, callback, Output, Input
 import pandas as pd
 import plotly.express as px
+import dash
+import dash_bootstrap_components as dbc
+import plotly.graph_objs as go
+import matplotlib.pyplot as plt
+import seaborn as sns
+import io
+import base64
 
-# Incorporate data
-df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/gapminder2007.csv')
+finaL_MPOWER = pd.read_csv('finaL_MPOWER.csv')
 
-# Initialize the app - incorporate css
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-app = Dash(__name__, external_stylesheets=external_stylesheets)
+app = dash.Dash(__name__)
 
-# App layout
+# Define the layout of the app
 app.layout = html.Div([
-    html.Div(className='row', children='My First App with Data, Graph, and Controls',
-             style={'textAlign': 'center', 'color': 'blue', 'fontSize': 30}),
-
-    html.Div(className='row', children=[
-        dcc.RadioItems(options=['pop', 'lifeExp', 'gdpPercap'],
-                       value='lifeExp',
-                       inline=True,
-                       id='my-radio-buttons-final')
-    ]),
-
-    html.Div(className='row', children=[
-        html.Div(className='six columns', children=[
-            dash_table.DataTable(data=df.to_dict('records'), page_size=11, style_table={'overflowX': 'auto'})
-        ]),
-        html.Div(className='six columns', children=[
-            dcc.Graph(figure={}, id='histo-chart-final')
-        ])
-    ])
+    html.H1("Country Scores Dashboard"),
+    
+    dcc.Dropdown(
+        id='country-dropdown',
+        options=[{'label': country, 'value': country} for country in finaL_MPOWER['Country'].unique()],
+        value=finaL_MPOWER['Country'].iloc[0]
+    ),
+    
+    dash_table.DataTable(
+        id='score-table',
+        columns=[
+            {'name': 'Year', 'id': 'Year'},
+            {'name': 'M_score', 'id': 'M_score'},
+            {'name': 'P_score', 'id': 'P_score'},
+            {'name': 'O_score', 'id': 'O_score'},
+            {'name': 'W_score', 'id': 'W_score'},
+            {'name': 'E_score', 'id': 'E_score'},
+            {'name': 'R_score', 'id': 'R_score'},
+        ],
+    )
 ])
 
-# Add controls to build the interaction
-@callback(
-    Output(component_id='histo-chart-final', component_property='figure'),
-    Input(component_id='my-radio-buttons-final', component_property='value')
+# Define a callback to update the table based on the selected country
+@app.callback(
+    Output('score-table', 'data'),
+    Input('country-dropdown', 'value')
 )
-def update_graph(col_chosen):
-    fig = px.histogram(df, x='continent', y=col_chosen, histfunc='avg')
-    return fig
+def update_table(selected_country):
+    filtered_df = finaL_MPOWER[finaL_MPOWER['Country'] == selected_country]
+    return filtered_df.to_dict('records')
 
-# Run the app
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run_server(debug=True)

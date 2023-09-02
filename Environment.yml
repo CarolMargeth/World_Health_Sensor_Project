@@ -1,0 +1,9 @@
+# Create a virtual environment 
+python -m venv my_project_env
+
+# Activate the virtual environment
+source my_project_env/bin/activate   # On macOS and Linux
+#.\my_project_env\Scripts\activate    # On Windows
+
+# Install packages
+pip install jupyter pandas requests json plotly-express matplotlib seaborn scipy dash==<version> dash-bootstrap-components==<version>

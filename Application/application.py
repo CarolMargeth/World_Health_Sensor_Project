@@ -28,7 +28,7 @@ fig = px.bar(
     x='Sex',
     y='Prevalence',
     color=None,
-    title='Estimate Average Smoking Prevalence by Sex Category',
+    #title='Estimate Average Smoking Prevalence by Sex Category',
 )
 fig.update_layout(
     xaxis_title='Sex',
@@ -47,7 +47,7 @@ fig2 = px.choropleth(
     hover_name='Country',  # Hover text will show country name
     animation_frame='Year',  # Animation frame based on year
     color_continuous_scale='Viridis_r',  # Color scale
-    title='Estimate Smoking Prevalence by Country over the years',
+    #title='Estimate Smoking Prevalence by Country over the years',
 )
 fig2.update_geos(
     showcoastlines=True,
@@ -80,7 +80,7 @@ fig3 = px.line(
     pivot_table,
     x='Year',
     y=pivot_table.columns[1:],  
-    title='Estimate Average Smoking Prevalence by WHO Region over the time'
+    #title='Estimate Average Smoking Prevalence by WHO Region over the time'
 )
 fig3.update_layout(
     xaxis_title='Year',
@@ -93,7 +93,7 @@ fig4 = px.scatter(
     scatter_data,
     x='Prevalence',
     y='PrematureDeaths/NCD',
-    title='Relation Smoking Prevalence vs Premature Deaths by NCD (proportion among all NCD)',
+    #title='Relation Smoking Prevalence vs Premature Deaths by NCD (proportion among all NCD)',
     labels={'Prevalence': 'Smoking Prevalence', 'PrematureDeaths/NCD': 'Premature Deaths'},
     animation_frame='Year',
     color = 'WHO Region' 
@@ -101,9 +101,6 @@ fig4 = px.scatter(
 # Set fixed axis ranges
 fig4.update_xaxes(range=[0, 100])
 fig4.update_yaxes(range=[0, 100])
-
-
-
 
 
 
@@ -122,13 +119,18 @@ app.layout = dbc.Container([
 
     dbc.Row([
         dbc.Col(
-            # Component 1 (Left column, first row)
-            dcc.Graph(figure=fig),
+            html.Div([
+                html.H3("Estimate Average Smoking Prevalence by Sex Category"),
+                dcc.Graph(figure=fig),
+            ]),
             width=5  # This column takes half of the row width
         ),
         dbc.Col(
             # Component 2 (Right column, first row)
-            dcc.Graph(figure=fig2),
+            html.Div([
+                html.H3("Estimate Smoking Prevalence by Country over the years"),
+                dcc.Graph(figure=fig2),
+            ]),
             width=7
         ),
     ]),
@@ -136,12 +138,18 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col(
             # Component 3 (Left column, second row)
-            dcc.Graph(figure=fig3),
+            html.Div([
+                html.H3("Estimate Average Smoking Prevalence by WHO Region over the time"),
+                dcc.Graph(figure=fig3),
+            ]),
             width=6
         ),
         dbc.Col(
             # Component 4 (Right column, second row)
-            dcc.Graph(figure=fig4),
+            html.Div([
+                html.H3("Relation Smoking Prevalence vs Premature Deaths by NCD (proportion among all NCD)"),
+                dcc.Graph(figure=fig4),
+            ]),
             width=6
         ),
     ]),
@@ -155,6 +163,7 @@ app.layout = dbc.Container([
             value=final_MPOWER['Country'].iloc[0]
             )
         ),
+        
         dash_table.DataTable(
             id='score-table',
             columns=[
@@ -185,13 +194,6 @@ def update_table(selected_country):
     filtered_df = final_MPOWER[final_MPOWER['Country'] == selected_country]
     return filtered_df.to_dict('records')
 
-
-    # Filter data for the selected country
-
-    # Create the data table
-    
-    # Create customizable graphs using Plotly Express
-   
    
 # Run the app
 if __name__ == '__main__':

@@ -1,4 +1,4 @@
-# Run this app with `python app.py` and
+# Create the project environment and Run this app with `python application.py` in your terminal and
 # visit http://127.0.0.1:8050/ in your web browser.
 
 
@@ -122,12 +122,8 @@ app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX]) #LUX, FLATLY,
 
 # Define the navbar
 navbar = dbc.NavbarSimple(
-    children=[
-        dbc.NavItem(dbc.NavLink("CAROL CALDERON", href="#")),
-        
-    ],
-    brand="World Health Sensor Project",
-    brand_href="#",
+    brand=html.Div([html.I(className="fas fa-chart-bar"), " World Health Sensor Project"]),  # Bar chart icon
+    brand_href="https://github.com/CarolMargeth/World_Health_Sensor_Project",
     color="darkblue",
     dark=True,
 )
@@ -315,15 +311,36 @@ app.layout = dbc.Container([
 
     html.Div(style={"height": "30px"}),
 
-    navbar,
+    # New Row
+    dbc.Row([
+        # Column for References
+        dbc.Col([
+            html.H4("References"),
+            html.A("The Global Health Observatory OData API", href="https://www.who.int/data/gho/info/gho-odata-api", target="_blank"),
+            html.Br(),
+            html.A("The Global Health Observatory", href="https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-tobacco-control-monitor-current-tobaccouse-tobaccosmoking-cigarrettesmoking-agestd-tobagestdcurr", target="_blank"),
+            html.Br(),
+            html.A("WHO POWER initiative", href="https://www.who.int/initiatives/mpower", target="_blank"),
 
-    # ... (other rows and columns)
+        ]),
+        
+        # Column for Resources
+        dbc.Col([
+            html.H4("About this project"),
+            # Add links 
+            html.P("Learn more about this project:"),
+            html.A("Git Hub Repository", href="https://github.com/CarolMargeth/World_Health_Sensor_Project"),
+        ]),
+
+        # Column for Author Information
+        dbc.Col([
+            html.H4("About the author"),
+            html.P("Author: Carol Calderon"),
+            html.A("Let's connect through Linkedln!", href="https://www.linkedin.com/in/carolcalderon/"),
+            html.P("Email: cmcalderonr1093@gmail.com"),        
+        ]),
+    ]),
 ], fluid=True, style={'width': '100%', 'height': '110vh'})
-
-
-
-
-
 
 
 

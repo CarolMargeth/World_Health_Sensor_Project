@@ -1,7 +1,6 @@
 # Create the project environment and Run this app with `python application.py` in your terminal and
 # visit http://127.0.0.1:8050/ in your web browser.
 
-
 # Import packages
 import dash
 from dash import Dash, html, dash_table, dcc, callback, Output, Input
@@ -10,7 +9,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
-
 
 # Load the datasets into DataFrames
 final_prevalence = pd.read_csv('final_prevalence.csv')
@@ -42,19 +40,18 @@ fig.update_layout(
 # Update the category labels on the x-axis
 fig.update_xaxes(categoryorder='array', categoryarray=custom_category_order, title_text='Sex', tickvals=[0, 1, 2], ticktext=[custom_category_labels[category] for category in custom_category_order])
 
-
 # Fig component 2
 # Sort the dataframe by 'TimeDimensionValue' in ascending order
 aggregated_data2 = final_prevalence.sort_values('Year')
 
 fig2 = px.choropleth(
     aggregated_data2,
-    locations='Country',  # Column with country names
-    locationmode='country names',  # Set location mode to country names
+    locations='Country',  
+    locationmode='country names',  
     color='Prevalence',  
-    hover_name='Country',  # Hover text will show country name
-    animation_frame='Year',  # Animation frame based on year
-    color_continuous_scale='Viridis_r',  # Color scale
+    hover_name='Country',  
+    animation_frame='Year',  
+    color_continuous_scale='Viridis_r',  
     #title='Estimate Smoking Prevalence by Country over the years',
 )
 fig2.update_geos(
@@ -73,7 +70,6 @@ fig2.update_layout(
 
 # Fig component 3
 # Group by WHO Region and Year and calculate the mean of Prevalence
-
 average_numeric_value_over_years = final_prevalence.groupby(['WHO Region', 'Year'])['Prevalence'].mean().reset_index()
 
 pivot_table = pd.pivot_table(
@@ -115,8 +111,6 @@ fig4 = px.scatter(
 fig4.update_xaxes(range=[0, 100])
 fig4.update_yaxes(range=[0, 100])
 
-
-
 # Create the Dash app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX]) #LUX, FLATLY, 
 
@@ -130,17 +124,25 @@ navbar = dbc.NavbarSimple(
 
 # Define the layout of the app
 app.layout = dbc.Container([
-    #Navigation bar
+    # Navigation bar
     navbar,
     
     # Add space after the navigation bar
     html.Div(style={"height": "30px"}),
 
-    # Title Row
+   # Title Row - Part 1
     dbc.Row([
         dbc.Col(
-            html.H1("Global Tobacco Insights: Visualizing Smoking Trends, Control Policies, and Health Related Problems", className="text-center"),
-            width={"size": 12}  # Center the title within the container
+            html.H1("Global Tobacco Insights", className="text-center"),
+            width={"size": 12}  # Center the first part of the title within the container
+        ),
+    ]),
+
+    # Title Row - Part 2
+    dbc.Row([
+        dbc.Col(
+            html.H1("Visualizing Smoking Trends, Health Consequences, and Control Policies", className="text-center"),
+            width={"size": 12}  # Center the second part of the title within the container
         ),
     ]),
 
@@ -182,6 +184,7 @@ app.layout = dbc.Container([
             html.Div([
                 html.H5("Relation Smoking Prevalence vs Premature Deaths by NCD (proportion among all NCD)", className="text-center"),
                 dcc.Graph(figure=fig4),
+                #html.P("R = -0.099, p < 0.0001)", className="text-center"),
             ]),
             width=6
         ),
@@ -342,10 +345,7 @@ app.layout = dbc.Container([
     ]),
 ], fluid=True, style={'width': '100%', 'height': '110vh'})
 
-
-
 # Define callback to update the table and graphs based on user input
-
 @app.callback(
     Output('score-table', 'data'),
     Input('country-dropdown', 'value')
@@ -353,7 +353,7 @@ app.layout = dbc.Container([
 def update_table(selected_country):
     filtered_df = final_MPOWER[final_MPOWER['Country'] == selected_country]
 
-        # Define a mapping from existing column names to desired labels
+    # Define a mapping from existing column names to desired labels
     column_label_mapping = {
         'M_score': 'Monitoring',
         'P_score': 'Protecting',
@@ -363,12 +363,11 @@ def update_table(selected_country):
         'R_score': 'Raising',
     }
 
-     # Rename the columns based on the mapping
+    # Rename the columns based on the mapping
     filtered_df.rename(columns=column_label_mapping, inplace=True)
     
     return filtered_df.to_dict('records')
 
-   
 # Run the app
 if __name__ == '__main__':
     app.run_server(debug=True)

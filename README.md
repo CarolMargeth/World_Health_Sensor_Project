@@ -2,21 +2,19 @@
 
 Using The Global Health Observatory OData API to fetch data from it's data collection. Analyze the data using data science techniques and create an interactive dashboard to visualize and explore the insights.
 
-- Find the project workflow and the summarized version in the World Health Sensor Project and WHSP Notebooks.
-- Find the application script to display the dashboard and final datasets in Application folder.
-- Explore the plots in the Visualizations folder.
+- Find the project workflow and the summarized version in the World Health Sensor Project and WHSP_summarized Notebooks.
+- Find the application script to display the dashboard, the description of the dashboard and final datasets in Application folder.
+- Explore the some plots buily during exploration and preprocessing stages in the Visualizations folder.
 
-# Project general description
+## Project general description
 
-The GHO data repository serves as the World Health Organization's (WHO) portal to health-related statistics concerning its 194 Member States. 
+The GHO data repository serves as the World Health Organization's (WHO) portal to health-related statistics concerning its 194 Member States. The Global Health Observatory (GHO) is constructed using a technology called RESTful web service. REST stands for Representational State Transfer, which is an architectural style used to design networked applications. In this context, GHO uses RESTful web services as the underlying technology to provide access to its data.
 
-The Global Health Observatory (GHO) is constructed using a technology called RESTful web service. REST stands for Representational State Transfer, which is an architectural style used to design networked applications. In this context, GHO uses RESTful web services as the underlying technology to provide access to its data.
+Initially, I named the project the "World Health Sensor Project" because I aimed to work with reliable and comprehensive global health data. As I progressed, I narrowed my focus to tobacco-related data. However, the project has the potential for expansion to include analysis and communication of various other health topics and indicators found in the GHO repository.
 
-The initial personal motivation to build this project came from the curiosity about the trend in Tobacco consumption and global tobacco control initiatives, then the exploration of the data focus on Tobacco data related.
+As I explained, after connecting with GHO API, the exploration derived in the building of the dashboard: ** "Global Tobacco Insights: Visualizing Smoking Trends, Health Consequences, and Control Policies" ** a dashboard that display important information about Smoking Prevalence by sex, countries and WHO regions, the relationship between smoking rates and premature deaths caused by non-communicable diseases (NCDs), and the efforts being undertaken by the countries to accomplish the MPOWER strategy.
 
-Tobacco use is indeed a significant contributor to a wide range of non-communicable diseases (NCDs) and is a leading cause of preventable illness and death worldwide. The exploration derived in the building of the dashboard: ** "Global Tobacco Insights: Visualizing Smoking Trends, Control Policies and Premature Deaths" ** a dashboard that display important information about Smoking Prevalence by sex, countries and WHO regions, the efforts being undertaken by the countries to accomplish the MPOWER strategy and the significant relationship between smoking rates and premature deaths caused by non-communicable diseases (NCDs).
 
-[MPOWER STRATEGY]('https://www3.paho.org/hq/index.php?option=com_content&view=article&id=1350:medidas-efectivas-control-tabaco&Itemid=0&lang=en#gsc.tab=0')
 
 
 Project in process... :)

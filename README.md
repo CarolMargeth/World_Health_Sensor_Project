@@ -49,6 +49,6 @@ Dash Bootstrap Components: dash-bootstrap-components is a library of Bootstrap c
 ## Contact information
     Author: Carol Calderon
     Email: cmcalderonr1093@gmail.com
-    Linkedln: [Carol's Profile](https://www.linkedin.com/in/carolcalderon/)
+    Linkedln: https://www.linkedin.com/in/carolcalderon/
 
     

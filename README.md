@@ -35,23 +35,20 @@ As I explained, after connecting with GHO API, the exploration derived in the bu
 
 
 ## Acknowledgments
-    Dash Python User Guide: Dash is the original low-code framework for rapidly building data apps in Python. [Learn more here]('https://dash.plotly.com/')
+Dash Python User Guide: Dash is the original low-code framework for rapidly building data apps in Python. [Learn more here](https://dash.plotly.com/)
 
-    Dash Bootstrap Components: dash-bootstrap-components is a library of Bootstrap components for Plotly Dash, that makes it easier to build consistently styled apps with complex, responsive layouts. [Learn more here]('https://dash-bootstrap-components.opensource.faculty.ai/')
+Dash Bootstrap Components: dash-bootstrap-components is a library of Bootstrap components for Plotly Dash, that makes it easier to build consistently styled apps with complex, responsive layouts. [Learn more here](https://dash-bootstrap-components.opensource.faculty.ai/)
 
 ## Additional Documentation
 
-The Global Health Observatory [Learn more here]('https://www.who.int/data/gho/info/gho-odata-api')
-
-GHO OData API [Learn more here]('https://www.who.int/data/gho/info/gho-odata-api')
-
-World Health Organization - MPOWER measures [Learn more here]('https://www.who.int/initiatives/mpower')
-
-Canada's Tobacco Strategy [Learn more here]('https://www.canada.ca/en/health-canada/services/publications/healthy-living/canada-tobacco-strategy.html') 
+- [Global Health Observatory](https://www.who.int/data/gho/info/gho-odata-api)
+- [GHO OData API](https://www.who.int/data/gho/info/gho-odata-api)
+- [World Health Organization - MPOWER measures](https://www.who.int/initiatives/mpower)
+- [Canada's Tobacco Strategy](https://www.canada.ca/en/health-canada/services/publications/healthy-living/canada-tobacco-strategy.html)
 
 ## Contact information
     Author: Carol Calderon
     Email: cmcalderonr1093@gmail.com
-    Linkedln: [Carol's Profile]('https://www.linkedin.com/in/carolcalderon/')
+    Linkedln: [Carol's Profile](https://www.linkedin.com/in/carolcalderon/)
 
     

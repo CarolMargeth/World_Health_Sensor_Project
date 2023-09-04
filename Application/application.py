@@ -118,10 +118,28 @@ fig4.update_yaxes(range=[0, 100])
 
 
 # Create the Dash app
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SPACELAB])
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX]) #LUX, FLATLY, 
+
+# Define the navbar
+navbar = dbc.NavbarSimple(
+    children=[
+        dbc.NavItem(dbc.NavLink("CAROL CALDERON", href="#")),
+        
+    ],
+    brand="World Health Sensor Project",
+    brand_href="#",
+    color="darkblue",
+    dark=True,
+)
 
 # Define the layout of the app
 app.layout = dbc.Container([
+    #Navigation bar
+    navbar,
+    
+    # Add space after the navigation bar
+    html.Div(style={"height": "30px"}),
+
     # Title Row
     dbc.Row([
         dbc.Col(
@@ -130,10 +148,13 @@ app.layout = dbc.Container([
         ),
     ]),
 
+    # Add space after the navigation bar
+    html.Div(style={"height": "30px"}),
+
     dbc.Row([
         dbc.Col(
             html.Div([
-                html.H3("Average Smoking Prevalence by Sex Category"),
+                html.H5("Average Smoking Prevalence by Sex Category", className="text-center"),
                 dcc.Graph(figure=fig),
             ]),
             width=4  # This column takes half of the row width
@@ -141,19 +162,21 @@ app.layout = dbc.Container([
         dbc.Col(
             # Component 2 (Right column, first row)
             html.Div([
-                html.H3("Smoking Prevalence by Country over the years"),
+                html.H5("Smoking Prevalence by Country over the years", className="text-center"),
                 dcc.Graph(figure=fig2),
-                html.P("Prevalence values for each country since 2000 year and the country’s most recent survey, then project to 2025."),
+                html.P("Prevalence values for each country since 2000 year and the country’s most recent survey, then project to 2025.", className="text-center"),
             ]),
             width=8
         ),
-    ]),
+    ],
+        style={"margin-bottom": "30px"}  # Add space between these two rows
+    ),
 
     dbc.Row([
         dbc.Col(
             # Component 3 (Left column, second row)
             html.Div([
-                html.H3("Average Smoking Prevalence by WHO Region over the time"),
+                html.H5("Average Smoking Prevalence by WHO Region over the time", className="text-center"),
                 dcc.Graph(figure=fig3),
             ]),
             width=6
@@ -161,46 +184,21 @@ app.layout = dbc.Container([
         dbc.Col(
             # Component 4 (Right column, second row)
             html.Div([
-                html.H3("Relation Smoking Prevalence vs Premature Deaths by NCD (proportion among all NCD)"),
+                html.H5("Relation Smoking Prevalence vs Premature Deaths by NCD (proportion among all NCD)", className="text-center"),
                 dcc.Graph(figure=fig4),
             ]),
             width=6
         ),
-    ]),
+    ],
+        style={"margin-bottom": "30px"}  # Add space between these two rows
+    ),
 
     dbc.Row([
-    dbc.Col(
-        # Component 5 (Third row, single column)
-        [
-            html.H3('MPOWER Strategy results by country'),
-            html.P("Selected the country:"),
-            dcc.Dropdown(
-                id='country-dropdown',
-                options=[{'label': country, 'value': country} for country in final_MPOWER['Country'].unique()],
-                value='Canada'
-            ),
-            
-            dash_table.DataTable(
-                id='score-table',
-                columns = [
-                    {'name': 'Year', 'id': 'Year'},
-                    {'name': 'Monitoring', 'id': 'Monitoring'},
-                    {'name': 'Protecting', 'id': 'Protecting'},
-                    {'name': 'Offering', 'id': 'Offering'},
-                    {'name': 'Warning', 'id': 'Warning'},
-                    {'name': 'Enforcing', 'id': 'Enforcing'},
-                    {'name': 'Raising', 'id': 'Raising'},
-                ],
-            ),
-            html.P("Table Description: This table displays the scores for the selected country."),
-        ],
-        width=6  # Set the width of this column to 6
-    ),
-    
-    dbc.Col(
+        dbc.Col(
             # Component 6 (Right column, third row)
             [
-                html.H3('The six MPOWER strategies include:'),
+                html.H5('MPOWER strategies'),
+                html.P("Click over each strategy to learn more about it:"),
                 html.Div(
                     dbc.Accordion(
                         [
@@ -229,14 +227,49 @@ app.layout = dbc.Container([
                                 title="R: Raise taxes on tobacco",
                             ),
                         ],
-                        always_open=True,
+                        start_collapsed=True,
+                        flush=True,
                     )
                 ),
             ],
             width=6
         ),
-    ]),
-    # ...
+        dbc.Col(
+            # Component 5 (Third row, single column)
+            [
+                html.H5('MPOWER Results by country'),
+                html.P("Selecte the country:"),
+                dcc.Dropdown(
+                    id='country-dropdown',
+                    options=[{'label': country, 'value': country} for country in final_MPOWER['Country'].unique()],
+                    value='Canada'
+                ),
+                
+                dash_table.DataTable(
+                    id='score-table',
+                    columns = [
+                        {'name': 'Year', 'id': 'Year'},
+                        {'name': 'Monitoring', 'id': 'Monitoring'},
+                        {'name': 'Protecting', 'id': 'Protecting'},
+                        {'name': 'Offering', 'id': 'Offering'},
+                        {'name': 'Warning', 'id': 'Warning'},
+                        {'name': 'Enforcing', 'id': 'Enforcing'},
+                        {'name': 'Raising', 'id': 'Raising'},
+                    ],
+                ),
+                html.P("Table Description: This table displays the scores for the selected country."),
+            ],
+            width=6  # Set the width of this column to 6
+        ),
+    ],
+    style={"margin-bottom": "40px"}  # Add space between the rows
+    ),
+
+    html.Div(style={"height": "30px"}),
+
+    navbar,
+
+    # ... (other rows and columns)
 ], fluid=True, style={'width': '100%', 'height': '110vh'})
 
 

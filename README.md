@@ -11,17 +11,19 @@ Initially, I named the project the "World Health Sensor Project" because I aimed
 
 ## Project steps
 
-1. **Select the Data Source:** Determined the specific OData API that provided the data needed for the analysis. Explored available public datasets and repositories. Determined the analysis goals in the past.
+This project encompasses ETL processes as a foundational step, but it extends well beyond that to include data analysis and dashboard development, making it a more holistic data science and visualization project.
 
-2. **Understand the API:** Studied the documentation of the OData API in the past to understand its endpoints, query parameters, and how to retrieve data. Identified the available resources, data models, and relationships between entities in the past.
+1. Select the Data Source: Determine the specific OData API that provides the data needed for the analysis. Explore available public datasets. Determine the analysis goals.
 
-3. **Retrieve and Preprocess Data:** Used the OData API to fetch the required data based on the analysis goals in the past. Applied data preprocessing steps like cleaning, filtering, and transforming the data as necessary to prepare it for analysis in the past.
+2. Understand the API: Study the documentation of the OData API to understand its endpoints, query parameters, and how to retrieve data. Identify the available resources, data models, and relationships between entities.
 
-3. **Analyze the Data:** Utilized data science techniques and libraries such as pandas, stats to perform exploratory data analysis (EDA) and statistical analysis in the past. Extracted meaningful insights and identified patterns or correlations in the data in the past. Selected the appropriate visualization tools like Matplotlib, Seaborn, or Plotly to create interactive and informative visualizations in the past.
+3. Retrieve and Preprocess Data: Use the OData API to fetch the required data based on the analysis goals. Apply data preprocessing steps like cleaning, filtering, and transforming the data as necessary to prepare it for analysis.
 
-4. **Design the Dashboard:** Designed the user interface and layout of the dashboard using libraries Dash in the past. Created an intuitive and user-friendly dashboard that allowed users to interact with the visualizations, apply filters, and explore the data dynamically in the past. **Tested and Iterated:** Tested the functionality and usability of the dashboard in the past.
+4. Analyze the Data: Utilize data science techniques and libraries such as pandas, stats to perform exploratory data analysis (EDA), statistical analysis, visualizations, or machine learning tasks. Extract meaningful insights and identify patterns or correlations in the data. Select the appropriate visualization tool like Matplotlib, Seaborn, or Plotly to create interactive and informative visualizations.
 
-5. **Deploy the Dashboard:** Hosted the dashboard on a web server or a cloud platform to make it accessible online in the past. This involved deploying it as a web application or utilizing cloud hosting services like Heroku or AWS in the past. 
+5. Design the Dashboard: Design the user interface and layout of the dashboard using libraries like Dash, Streamlit, or Tableau. Create an intuitive and user-friendly dashboard that allows users to interact with the visualizations, apply filters, and explore the data dynamically. Iterate on the design and make improvements based on user input and additional data analysis requirements.
+
+6. Deploy the Dashboard: Host the dashboard on a web server or a cloud platform to make it accessible online. This could involve deploying it as a web application or utilizing cloud hosting services like Heroku or AWS. Test and Iterate: Test the functionality and usability of the dashboard, seeking feedback from potential users. 
 
 ## Application description
 

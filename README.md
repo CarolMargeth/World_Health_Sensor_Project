@@ -51,4 +51,6 @@ Dash Bootstrap Components: dash-bootstrap-components is a library of Bootstrap c
     Email: cmcalderonr1093@gmail.com
     Linkedln: https://www.linkedin.com/in/carolcalderon/
 
-    
+## Requirements
+Python 3.9.13
+See requirements.txt file

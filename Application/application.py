@@ -41,11 +41,10 @@ fig.update_layout(
 fig.update_xaxes(categoryorder='array', categoryarray=custom_category_order, title_text='Sex', tickvals=[0, 1, 2], ticktext=[custom_category_labels[category] for category in custom_category_order])
 
 # Fig component 2
-# Sort the dataframe by 'TimeDimensionValue' in ascending order
-aggregated_data2 = final_prevalence.sort_values('Year')
+final_prevalence_sorted = final_prevalence.sort_values(['Country', 'Year'])
 
 fig2 = px.choropleth(
-    aggregated_data2,
+    final_prevalence_sorted,
     locations='Country',  
     locationmode='country names',  
     color='Prevalence',  
@@ -67,6 +66,7 @@ fig2.update_layout(
     geo=dict(showframe=False, showcoastlines=False),
     coloraxis_colorbar=dict(title='Prevalence (%)'),
 )
+
 
 # Fig component 3
 # Group by WHO Region and Year and calculate the mean of Prevalence
@@ -152,7 +152,7 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col(
             html.Div([
-                html.H5("Average Smoking Prevalence by Sex Category", className="text-center"),
+                html.H5("Smoking Prevalence by Sex Category", className="text-center"),
                 dcc.Graph(figure=fig),
             ]),
             width=4  # This column takes half of the row width
@@ -174,7 +174,7 @@ app.layout = dbc.Container([
         dbc.Col(
             # Component 3 (Left column, second row)
             html.Div([
-                html.H5("Average Smoking Prevalence by WHO Region over the time", className="text-center"),
+                html.H5("Smoking Prevalence by WHO Region over the time", className="text-center"),
                 dcc.Graph(figure=fig3),
             ]),
             width=6

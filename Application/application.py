@@ -13,15 +13,15 @@ import plotly.express as px
 # Load the datasets into DataFrames
 final_prevalence = pd.read_csv('final_prevalence.csv')
 final_premature_deaths = pd.read_csv('final_premature_deaths.csv')
-final_MPOWER = pd.read_csv('finaL_MPOWER.csv')
+final_MPOWER = pd.read_csv('final_MPOWER.csv')
 scatter_data = pd.read_csv('scatter_data.csv')
 
 # Figures
 
 # Fig component 1
 # Define custom category order and labels
-custom_category_order = ['MLE', 'FMLE', 'BTSX']  # Specify the desired order
-custom_category_labels = {'MLE': 'Men', 'FMLE': 'Women', 'BTSX': 'Both'}  # Specify custom labels
+custom_category_order = ['MLE', 'FMLE', 'BTSX']  
+custom_category_labels = {'MLE': 'Men', 'FMLE': 'Women', 'BTSX': 'Both'}  
 custom_color = 'goldenrod'
 aggregated_data = final_prevalence.groupby('Sex')['Prevalence'].mean().reset_index()
 
@@ -31,7 +31,7 @@ fig = px.bar(
     y='Prevalence',
     color_discrete_sequence=[custom_color],
     #title='Estimate Average Smoking Prevalence by Sex Category',
-    category_orders={'Sex': custom_category_order},  # Set the custom category order
+    category_orders={'Sex': custom_category_order},  
 )
 fig.update_layout(
     xaxis_title='Sex',
@@ -60,7 +60,7 @@ fig2.update_geos(
     landcolor='LightGrey',
     showocean=True,
     oceancolor='LightBlue',
-    projection_type='orthographic',  # Projection type
+    projection_type='orthographic',  
 )
 fig2.update_layout(
     geo=dict(showframe=False, showcoastlines=False),
@@ -134,7 +134,7 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col(
             html.H1("Global Tobacco Insights", className="text-center"),
-            width={"size": 12}  # Center the first part of the title within the container
+            width={"size": 12} 
         ),
     ]),
 
@@ -142,7 +142,7 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col(
             html.H1("Visualizing Smoking Trends, Health Consequences, and Control Policies", className="text-center"),
-            width={"size": 12}  # Center the second part of the title within the container
+            width={"size": 12}  
         ),
     ]),
 
@@ -155,7 +155,7 @@ app.layout = dbc.Container([
                 html.H5("Smoking Prevalence by Sex Category", className="text-center"),
                 dcc.Graph(figure=fig),
             ]),
-            width=4  # This column takes half of the row width
+            width=4 
         ),
         dbc.Col(
             # Component 2 (Right column, first row)
@@ -167,7 +167,7 @@ app.layout = dbc.Container([
             width=8
         ),
     ],
-        style={"margin-bottom": "30px"}  # Add space between these two rows
+        style={"margin-bottom": "30px"}  
     ),
 
     dbc.Row([
@@ -189,7 +189,7 @@ app.layout = dbc.Container([
             width=6
         ),
     ],
-        style={"margin-bottom": "30px"}  # Add space between these two rows
+        style={"margin-bottom": "30px"}  
     ),
 
     dbc.Row([
@@ -309,7 +309,7 @@ app.layout = dbc.Container([
             width=6  # Set the width of this column to 6
         ),
     ],
-    style={"margin-bottom": "40px"}  # Add space between the rows
+    style={"margin-bottom": "40px"} 
     ),
 
     html.Div(style={"height": "30px"}),

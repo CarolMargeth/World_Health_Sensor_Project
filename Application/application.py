@@ -1,5 +1,6 @@
-# Create the project environment and Run this app with `python application.py` in your terminal and
-# visit http://127.0.0.1:8050/ in your web browser.
+# To run this project in your local machine:
+# 1. Create the project environment and Run this app with `python application.py` in your terminal
+# 2. Visit http://127.0.0.1:8050/ in your web browser.
 
 # Import packages
 import dash
@@ -9,8 +10,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
+# from flask import Flask
 
-# Load the datasets into DataFrames
+# Load the cleaned datasets into DataFrames
 final_prevalence = pd.read_csv('final_prevalence.csv')
 final_premature_deaths = pd.read_csv('final_premature_deaths.csv')
 final_MPOWER = pd.read_csv('final_MPOWER.csv')
@@ -111,6 +113,9 @@ fig4 = px.scatter(
 fig4.update_xaxes(range=[0, 100])
 fig4.update_yaxes(range=[0, 100])
 
+# Configured to accept external connections. 
+# server = Flask(__name__)
+
 # Create the Dash app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX]) #LUX, FLATLY, 
 
@@ -150,7 +155,7 @@ app.layout = dbc.Container([
     html.Div(style={"height": "30px"}),
 
     dbc.Row([
-        dbc.Col(
+        dbc.Col(  # Component 1
             html.Div([
                 html.H5("Smoking Prevalence by Sex Category", className="text-center"),
                 dcc.Graph(figure=fig),
@@ -158,7 +163,7 @@ app.layout = dbc.Container([
             width=4 
         ),
         dbc.Col(
-            # Component 2 (Right column, first row)
+            # Component 2
             html.Div([
                 html.H5("Smoking Prevalence by Country over the years", className="text-center"),
                 dcc.Graph(figure=fig2),
@@ -172,7 +177,7 @@ app.layout = dbc.Container([
 
     dbc.Row([
         dbc.Col(
-            # Component 3 (Left column, second row)
+            # Component 3 
             html.Div([
                 html.H5("Smoking Prevalence by WHO Region over the time", className="text-center"),
                 dcc.Graph(figure=fig3),
@@ -180,7 +185,7 @@ app.layout = dbc.Container([
             width=6
         ),
         dbc.Col(
-            # Component 4 (Right column, second row)
+            # Component 4 
             html.Div([
                 html.H5("Relation Smoking Prevalence vs Premature Deaths by NCD (proportion among all NCD)", className="text-center"),
                 dcc.Graph(figure=fig4),
@@ -194,7 +199,7 @@ app.layout = dbc.Container([
 
     dbc.Row([
         dbc.Col(
-            # Component 6 (Right column, third row)
+            # Component 5
             [
                 html.H5('MPOWER strategies'),
                 html.P("Click over each strategy to learn more about it:"),
@@ -282,7 +287,7 @@ app.layout = dbc.Container([
             width=6
         ),
         dbc.Col(
-            # Component 5 (Third row, single column)
+            # Component 6
             [
                 html.H5('MPOWER Results by country'),
                 html.P("Selecte the country:"),
@@ -306,7 +311,7 @@ app.layout = dbc.Container([
                 ),
                 html.P("Table Description: This table displays the scores for the selected country."),
             ],
-            width=6  # Set the width of this column to 6
+            width=6  
         ),
     ],
     style={"margin-bottom": "40px"} 
@@ -323,7 +328,7 @@ app.layout = dbc.Container([
             html.Br(),
             html.A("The Global Health Observatory", href="https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-tobacco-control-monitor-current-tobaccouse-tobaccosmoking-cigarrettesmoking-agestd-tobagestdcurr", target="_blank"),
             html.Br(),
-            html.A("WHO POWER initiative", href="https://www.who.int/initiatives/mpower", target="_blank"),
+            html.A("WHO MPOWER initiative", href="https://www.who.int/initiatives/mpower", target="_blank"),
 
         ]),
         
@@ -371,3 +376,5 @@ def update_table(selected_country):
 # Run the app
 if __name__ == '__main__':
     app.run_server(debug=True)
+    # To access Dash app using the external IP address or domain name of the EC2 instance
+    # app.run_server(host='0.0.0.0', port=8050, debug=True)

@@ -1,3 +1,4 @@
+Python 3.9.13
 dash==2.13.0
 dash-bootstrap-components==1.4.2
 dash-core-components==2.0.0
@@ -10,4 +11,8 @@ plotly
 requests
 regex
 scipy==1.9.1
-seaborn 
+seaborn
+
+# App deployment in AWS
+Flask
+tmux

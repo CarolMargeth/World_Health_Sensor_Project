@@ -14,4 +14,4 @@ seaborn
 
 # App deployment in AWS
 Flask
-tmux
+# tmux

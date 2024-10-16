@@ -97,7 +97,7 @@ fig3.update_layout(
 # Scatterplot of Smoking Prevalence vs Premature Deaths
 
 # Sort the 'WHO Region' column alphabetically in your scatter_data DataFrame
-scatter_data_sorted = scatter_data.sort_values(by='WHO Region')
+scatter_data_sorted = scatter_data.sort_values(by=['WHO Region','Year'])
 
 fig4 = px.scatter(
     scatter_data_sorted,
@@ -188,6 +188,7 @@ app.layout = dbc.Container([
             # Component 4 
             html.Div([
                 html.H5("Relation Smoking Prevalence vs Premature Deaths by NCD (proportion among all NCD)", className="text-center"),
+                html.P("NCD = Non-communicable diseases", className="text-center"),
                 dcc.Graph(figure=fig4),
                 #html.P("R = -0.099, p < 0.0001)", className="text-center"),
             ]),
